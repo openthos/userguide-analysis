@@ -1,26 +1,26 @@
 # office_word的使用
 
 ## Word   
-![](https://github.com/openthos/community-analysis/blob/master/pic/office/word.jpg)
+![](../pic/soft/word.jpg)
   - 001 纸张大小或者方向设置。单击“布局”选项卡上中的“纸张大小或纸张方向”按钮   
 
   - 002 支持页面边距设置。单击“布局”选项卡上中的“页边距”按钮   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.png)   
+  ![](../pic/soft/%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.png)   
 
   - 003 支持插入“页眉和页脚”   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E9%A1%B5%E7%9C%89%E5%92%8C%E9%A1%B5%E8%84%9A.png)   
+  ![](../pic/soft/%E9%A1%B5%E7%9C%89%E5%92%8C%E9%A1%B5%E8%84%9A.png)   
 
   - 004 支持插入表格/图片/线框图/文本框/链接/批注/页码等   
     单击“插入”选项卡上中的“相关”按钮   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E6%8F%92%E5%85%A5.png)   
+  ![](../pic/soft/%E6%8F%92%E5%85%A5.png)   
 
   - 005 支持快捷键保存word文档   
     ctrl + s-> 选择路径和文件名-> 保存文件   
 
   - 006 标题的自动编号/项目符号   
     选中文本-> 点击开始-> 选中项目符号或者编号   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E8%87%AA%E5%8A%A8%E7%BC%96%E5%8F%B7.png)   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E9%A1%B9%E7%9B%AE%E7%AC%A6%E5%8F%B7.png)   
+  ![](../pic/soft/%E8%87%AA%E5%8A%A8%E7%BC%96%E5%8F%B7.png)   
+  ![](../pic/soft/%E9%A1%B9%E7%9B%AE%E7%AC%A6%E5%8F%B7.png)   
 
 
   - 007 能便捷地对图文进行排版编辑（如：设置字体、大小、颜色、加粗、居中）   
@@ -31,7 +31,7 @@
 
   - 009 支持段落设置（如首行缩进/居中/向右对齐/向左对齐等）   
     选中编辑区域-> 单击左键上方菜单栏-> 开始-> 点击相应按键-> 进行编辑   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/9%E6%AE%B5%E8%90%BD%E8%AE%BE%E7%BD%AE.png)   
+  ![](../pic/soft/9%E6%AE%B5%E8%90%BD%E8%AE%BE%E7%BD%AE.png)   
 
   - 010 支持文档分享功能   
     点击文件-> 共享-> 以链接/附件形式   
@@ -65,10 +65,10 @@
 
   - 024 支持拼音检查功能   
     点击文件-> 审阅-> 拼音简写-> 即可完成   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E6%8B%BC%E9%9F%B3%E7%AE%80%E5%86%99.png)   
+  ![](../pic/soft/%E6%8B%BC%E9%9F%B3%E7%AE%80%E5%86%99.png)   
 
   - 025 支持绘图功能   
     点击绘图-> 选择画笔/颜色等-> 即可完成   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E7%BB%98%E5%9B%BE.png)   
+  ![](../pic/soft/%E7%BB%98%E5%9B%BE.png)   
 
 
