@@ -1,6 +1,6 @@
 # QQ使用
 ## QQ
-![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/qq.png)   
+![](../pic/soft/qq.png)   
 
 ### QQ登陆
 - 打开应用输入用户名、密码登陆QQ   
@@ -13,7 +13,7 @@
 
 ### 切换帐号
 - 点击左上方 "用户头像"   
-![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/qq_contact.jpg) 
+![](../pic/soft/qq_contact.jpg) 
 
 ### 添加联系人，删除联系人，移动联系人
 - 点击右上方加号
@@ -44,7 +44,7 @@
 
 ### 发送文件
 - 点击好友 -> "文件"   
-![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/qq_slidemenu.jpg)
+![](../pic/soft/qq_slidemenu.jpg)
 
 ### 帐号安全
 - 点击左上方 "用户头像"-> "设置"-> "帐号安全"
@@ -69,7 +69,7 @@
 
 ### 绑定手机
 - 点击左上方 -> "设置"-> "手机号码"   
-![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/qq_public.jpg) 
+![](../pic/soft/qq_public.jpg) 
 
 ### 公众号
 - 点击"联系人" -> "公众号"
@@ -82,7 +82,7 @@
 
 ### 我的收藏
 - 点击左上方"用户头像"-> "我的收藏"   
-![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/qq_status.jpg) 
+![](../pic/soft/qq_status.jpg) 
 
 ### 我的文件（传文件/照片到我的电脑，面对面快传，备份相册到微云）
 - 点击左上方"用户头像"-> "我的文件"
