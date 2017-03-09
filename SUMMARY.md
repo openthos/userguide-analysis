@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [第一章 安装](一.安装.md)
 * [第二章 开机](二.开机.md)
 * [第三章 首次配置](三.首次配置.md)
