@@ -22,7 +22,7 @@
   	 - 006 支持 快捷键"F5“ 刷新桌面功能；
   	 - 007 支持 快捷键“delete" 删除选中的文件到回收站功能；
   	 - 008 支持 快捷键“shift" + "delete" 永久删除选中的文件；	
-     - 009 支持 快捷键"Enter" 快速进入选中的条目；
+         - 009 支持 快捷键"Enter" 快速进入选中的条目；
 	 
 - 右键菜单
    	 - 001 支持 右键菜单 打开文件；
@@ -51,9 +51,8 @@
    	 - 005 支持文件解压缩信息弹窗显示；
    	 - 006 支持 文件详情显示 文件位置，文件大小，占用空间，创建时间，修改时间，访问时间，用户权限，群组权限，其他权限；
 	 
-# FileManager Input
+## Desktop Input
 
-***
 ## 音乐
 - 1.音乐  
 ![](https://github.com/openthos/systemui-analysis/blob/master/ImageView/music.png)
