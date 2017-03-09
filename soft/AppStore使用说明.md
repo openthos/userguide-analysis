@@ -43,24 +43,24 @@
     - 最受欢迎    (按下载量展示)
     - 最受好评    (按评分展示)
     - 常用软件	
-    ![](https://github.com/openthos/appstore-ota-analysis/blob/master/pic/home.png)
+    ![](../pic/gongju/home.png)
       - more      (点击可以查看更多软件内容)
 	
  	
 
   - 软件    (展示属于非游戏类的软件，并且有分类)
-  ![](https://github.com/openthos/appstore-ota-analysis/blob/master/pic/software.png)  
+  ![](../pic/gongju/software.png)  
       - 右侧显示非游戏软件的分类，分别是全部，影音娱乐，实用工具，社交通讯，学习办公和网络生活，点击相应分类可以展示该类别软件。
    
   
   
   - 游戏    (展示属于游戏类的软件，并且有分类)
-  ![](https://github.com/openthos/appstore-ota-analysis/blob/master/pic/game.png)   
+  ![](../pic/gongju/game.png)   
       - 右侧显示游戏类软件分类，分别是全部，休闲益智和经营策略，点击相应分类可查看该类别软件。 
   
   
   - 管理    (无点击事件，查看软件的下载情况)
-  ![](https://github.com/openthos/appstore-ota-analysis/blob/master/pic/manager.png)  
+  ![](../pic/gongju/manager.png)  
       - 更新    (本机已经安装的软件)  
         - 点击内容项会弹出应用信息框，可进行卸载，清除缓存等操作;
         - 更新所有  {更新所有需要更新的软件};
@@ -75,7 +75,7 @@
  
  
   - 搜索  
-  ![](https://github.com/openthos/appstore-ota-analysis/blob/master/pic/search.png)
+  ![](../pic/gongju/search.png)
   
   按关键字搜索所需应用
 
