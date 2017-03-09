@@ -90,15 +90,15 @@
     - 编辑: 可使用中英文正常编辑
     - 保存: 可正常保存
   
-- 2.Word  
+    - 2.Word  
     ![](https://github.com/openthos/desktop-analysis/blob/master/imageView/Word.png)
      - 页面： 内容显示正常
       - 文字： 显示正常
       - 编辑: 无法编辑
       
-- 3.文本编辑器  
+    - 3.文本编辑器  
     ![](https://github.com/openthos/desktop-analysis/blob/master/imageView/textEditor.png)
-    - 页面： 内容显示正常
+        - 页面： 内容显示正常
     - 文字： 显示字体偏小
     - 编辑: 可使用中英文正常编辑
     - 保存: 可正常保存      
