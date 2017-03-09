@@ -1,7 +1,7 @@
 # VLC使用说明书
 
 ## VLC效果图
-![](pic/yule/video.png)
+![](../pic/yule/video.png)
 
 ## VLC功能点
   - 001 支持mpg,mp4,avi,swf,3gp,mpeg4格式的视频播放;
@@ -42,56 +42,56 @@
 ## VLC基本操作说明
    - 001 点击左上角图标，可以查看软件的功能结构;
    
-    ![](pic/yule/struct.png)
+    ![](../pic/yule/struct.png)
         
    - 002 选择视频项，会自动搜索本机的视频，并且显示出来;
    
-    ![](pic/yule/video.png)
+    ![](../pic/yule/video.png)
 
    - 003 点击展示出来的视频列表，可以进入视频播放;
    
-   ![](pic/yule/video_play.png)
+   ![](../pic/yule/video_play.png)
 
    - 004 点击音频项，会自动搜索本机的音频文件，并且展示出来;
    
-   ![](pic/yule/music.png)
+   ![](../pic/yule/music.png)
    
    - 005 点击目录项，可以进入本地自己选择视频路径;
    
-   ![](pic/yule/list.png)
+   ![](../pic/yule/list.png)
    
    - 006 例如，查找本地movies下的文件，可以通过点击目录，找到movie查找到以后点击可以播放;
    
-   ![](pic/yule/list_video.png)
+   ![](../pic/yule/list_video.png)
    
    - 007 点击本地网络项，可以查看本地网络的视频;
    
-   ![](pic/yule/net.png)
+   ![](../pic/yule/net.png)
    
    - 008 点击流项，可以输入视频的网络地址来播放视频;
    
-   ![](pic/yule/net_stream.png)
+   ![](../pic/yule/net_stream.png)
    
    - 009 点击历史项，可以查看播放的视频的历史记录;
    
-   ![](pic/yule/history.png)
+   ![](../pic/yule/history.png)
    
    - 010 点击设置项，可以设置本机的配置，具体内容如图;
    
-   ![](pic/yule/setting.png)
+   ![](../pic/yule/setting.png)
    
    - 011 点击关于项，可以查看本应用的信息;
    
-   ![](pic/yule/about.png)
+   ![](../pic/yule/about.png)
    
-   ![](pic/yule/permission.png)
+   ![](../pic/yule/permission.png)
    
    - 012 点击放大镜，可以进行搜索功能;
    
-   ![](pic/yule/search.png)
+   ![](../pic/yule/search.png)
    
    - 013 点击最右侧的三点，可以进行刷新操作;
    
-   ![](pic/yule/refresh.png)
+   ![](../pic/yule/refresh.png)
    
    
