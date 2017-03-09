@@ -2,7 +2,7 @@
 
 ## Wps首页功能：  
 - 001 使用wps打开文档
-![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/wps.png)  
+![](../pic/soft/using-instractions-pic/wps.png)  
 
   - 方法一：在左侧点击“打开”图标（第一次打开文档）—> 查找打开文件的位置(如一个任意目录下的文件在“平板”内查找点击路径查找）；
   - 方法二：在左侧点击“最近”图标（打开最近打开过的文档）—> 点击要打开的文档（若要返回，点击窗口左上角的返回按钮）；
@@ -38,12 +38,12 @@
 - 008 支持文档加密  
   - 文件->加密->输入密码->确认密码->确定；
 - 009 可另存为PDF格式；    
-![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-15-52-56.png)   
+![](../pic/soft/Screenshot_2016-12-28-15-52-56.png)   
 
   - 上方菜单栏->单击文件->另存为->出现弹框，单击右下角的倒三角选择PDF->保存；  
    
 - 010 支持插入图片；  
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-16-03-55.png)  
+  ![](../pic/soft/Screenshot_2016-12-28-16-03-55.png)  
   
   - 鼠标放置要插入的位置->上方菜单栏->单击插入->单击图片->出现弹框->选择用户图库->插入；
 - 011 支持插入表格；  
@@ -58,8 +58,8 @@
 - 016 支持对文档阅读的设置背景色功能；  
 
 - 017 支持查找、替换文字功能；  
-![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-16-14-57.png)  
-![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-16-15-07.png)  
+![](../pic/soft/Screenshot_2016-12-28-16-14-57.png)  
+![](../pic/soft/Screenshot_2016-12-28-16-15-07.png)  
   - 鼠标放置要插入的位置->上方菜单栏->查看->查找／替换->进行编辑->确定；
   
 - 018 支持文档符号和多级符号的插入；
@@ -78,7 +78,7 @@
 ***
 ### 表格
 
-![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-16-44-27.png)
+![](../pic/soft/Screenshot_2016-12-28-16-44-27.png)
 
 - 001 支持保存wps文档  
   - 菜单->开始->保存选择路径和文件名，保存文件。 
@@ -103,7 +103,7 @@
 
 - 011 支持自动换行功能；
   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-17-09-25.png)  
+  ![](../pic/soft/Screenshot_2016-12-28-17-09-25.png)  
   
   - 鼠标选中编辑的内容->上方菜单栏->单元格->单击自动换行->完成；  
    
@@ -112,7 +112,7 @@
 - 013 支持插入单元格功能；
   - 鼠标选中要插入表格的位置->上方菜单栏->插入单元格->完成；  
 - 014 支持多个sheet页创建；
-![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-28-17-15-17.png)
+![](../pic/soft/Screenshot_2016-12-28-17-15-17.png)
 - 015 支持对数据进行升、降排序功能；
   - 选中所选数字区域->菜单栏->升序／降序->完成；
 - 016 支持冻结窗格功能；
@@ -135,7 +135,7 @@
 
 ***
 ### PPT
-![](https://github.com/openthos/community-analysis/blob/master/pic/WPSpic/Screenshot_2016-12-29-09-22-44.png)
+![](../pic/soft/Screenshot_2016-12-29-09-22-44.png)
 
 - 001 支持快捷键保存wps文档  
   - ctrl + s 选择路径和文件名，保存文件。  
