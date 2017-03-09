@@ -94,8 +94,8 @@
     - 2.Word  
     ![](https://github.com/openthos/desktop-analysis/blob/master/imageView/Word.png)
      - 页面： 内容显示正常
-     - 文字： 显示正常
-     - 编辑: 无法编辑
+      - 文字： 显示正常
+      - 编辑: 无法编辑
   
     - 3.文本编辑器  
     ![](https://github.com/openthos/desktop-analysis/blob/master/imageView/textEditor.png)
@@ -112,7 +112,7 @@
   
     ![](https://github.com/openthos/desktop-analysis/blob/master/imageView/download_dir.png)   
       - 路径: 默认保存到个人空间的下载目录下
-  ## 基本组成：
+## 基本组成：
 - 桌面背景:
     - [更换壁纸](https://github.com/openthos/desktop-analysis/blob/master/instructions/change_wallpaper_info.md)
 - 桌面图标
