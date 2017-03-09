@@ -1,7 +1,7 @@
 # office_powerpoint的使用
 
 ## PowerPoint   
-![](https://github.com/openthos/community-analysis/blob/master/pic/office/ppt%E7%95%8C%E9%9D%A2.jpg)
+![](../pic/soft/ppt%E7%95%8C%E9%9D%A2.jpg)
 
   - 001 支持打开ppt   
     点击文件-> 打开-> ppt-> 完成   
@@ -11,13 +11,13 @@
 
   - 003 支持模板应用   
     选择开始-> 版式-> 选择相应的版式-> 确定   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/ppt%E7%89%88%E5%BC%8F%E5%BA%94%E7%94%A8.png)   
+  ![](../pic/soft/ppt%E7%89%88%E5%BC%8F%E5%BA%94%E7%94%A8.png)   
 
   - 004 支持PPT中主要操作，包括新建、修改、删除、插入等   
 
   - 005 支持插入SmartART图形   
     选择插入-> SmartART-支持列表/流程/循环等-> 选择-> 确定   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/SmartART-.png)   
+  ![](../pic/soft/SmartART-.png)   
 
   - 006 插入表格、图像、插图以及文本等多种素材   
 
@@ -27,7 +27,7 @@
 
   - 009 支持切换效果，支持切换效果全部应用   
     点击切换-> 切换效果   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C.png)   
+  ![](../pic/soft/%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C.png)   
 
   - 010 支持保存office文档   
 
@@ -40,7 +40,7 @@
 
   - 014 支持主题设置和设计创意   
     点击设计-> 选择主题/设计创意-> 完成   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E4%B8%BB%E9%A2%98.png)   
+  ![](../pic/soft/%E4%B8%BB%E9%A2%98.png)   
 
   - 015 支持插入表格   
 
@@ -69,10 +69,10 @@
   - 027 支持审阅功能   
 
   - 028 支持视图功能，包括放大/缩小/自适应窗口大小/视图方向等   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E8%A7%86%E5%9B%BE.png)   
+  ![](../pic/soft/%E8%A7%86%E5%9B%BE.png)   
 
   - 029 支持隐藏幻灯片。点击幻灯片-隐藏幻灯片-完成   
-  ![](https://github.com/openthos/community-analysis/blob/master/pic/office/%E9%9A%90%E8%97%8F%E5%B9%BB%E7%81%AF%E7%89%87.png)   
+  ![](../pic/soft/%E9%9A%90%E8%97%8F%E5%B9%BB%E7%81%AF%E7%89%87.png)   
 
   - 030 支持可插入图片   
 
