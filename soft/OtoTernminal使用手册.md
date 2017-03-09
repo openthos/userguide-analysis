@@ -1,13 +1,13 @@
 # OtoTerminal使用手册
   - 基本功能
-   - ![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_4898-terminal_homepage1490052727.png)
+   - ![](../pic/gongju/tmp_4898-terminal_homepage1490052727.png)
    - 1.右上角加号，点击可以增加新的编辑窗口，没有上限。
    - 2.右上角叉号，点击可以关闭当前编辑的窗口。
    - 3.右上角三个点，点击弹出下拉选择框，包括一些具体的内部功能。
    - 4.左上角窗口提示栏，点击出现当前创建的的所有窗口信息，点击可以切换窗口，点击对应窗口后边的关闭（叉号图标），可关闭对应窗口。
    - 5.窗口获得焦点后，可以正常输入.
   - 快捷键功能相关
-    - ![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_4898-terminal_hotkey455351491.png)
+    - ![](../pic/gongju/tmp_4898-terminal_hotkey455351491.png)
     - 1.窗体内右击后，出现选择框，包括内容（编辑文本，选择文本，全部复制，粘贴，发送ctrl键，发送fn键）。
     - 2.复制功能：
      - a.右击选择选择文本条目，然后选中所需区域抬起鼠标即可复制成功。
@@ -16,13 +16,13 @@
      - a.右击选择粘贴条目，即可粘贴
      - b.使用ctrl+shift+v同样可以实现粘贴功能
     - 4.切换窗口：
-     - ![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_4898-terminal_more944700000.png)
+     - ![](../pic/gongju/tmp_4898-terminal_more944700000.png)
      - a.使用（基本功能条目 第4项）可以实现窗口切换
      - b.使用右上角的设置选项中的窗口的窗口列表选选项
      - c.通过alt+1,2,3...0的方式切换窗口，1，2，3...0对应所开的窗口
 
   - 右上角设置条目具体内容
-   - ![](https://github.com/openthos/community-analysis/blob/master/pic/using-instractions-pic/tmp_4898-terminal_right233668700.png)
+   - ![](../pic/gongju/tmp_4898-terminal_right233668700.png)
    - 1.窗口列表（可切换、关闭窗口）
    - 2.打开／关闭软键盘
    - 3.特殊键（展示）
