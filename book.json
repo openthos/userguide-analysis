@@ -3,7 +3,7 @@
         "path": "README.md",
         "title": "介绍" },
  "plugins": [
-     "mathjax","duoshuo", "quizzes", "-lunr", "-search", "search-pro"
+     "mathjax","duoshuo", "quizzes", "-lunr", "-search", "search-pro","toggle-chapters"
     ],
 
     "pluginsConfig": {
