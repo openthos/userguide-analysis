@@ -1,4 +1,4 @@
-bui# Summary
+# Summary
 
 * [前言](README.md)
 * [第一章 安装](一.安装.md)
@@ -29,7 +29,17 @@ bui# Summary
     * [微信](./soft/%E5%BE%AE%E4%BF%A1.md)
     * [QQ](./soft/QQ.md)   
   * [工具](#)
-    * [应用商店](./soft/AppStore%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+    * [应用商店](./soft/AppStore%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)     
+     * [整体概括](#)
+      * [整体说明](../soft/%E6%95%B4%E4%BD%93%E8%AF%B4%E6%98%8E.md)
+      * [应用管理](../soft/应用管理.md)
+     * [常见操作](#)
+      * [查询应用](../soft/%E6%9F%A5%E8%AF%A2%E5%BA%94%E7%94%A8.md)
+      * [下载应用](../soft/%E4%B8%8B%E8%BD%BD%E5%BA%94%E7%94%A8.md)
+      * [安装应用](../soft/%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8.md)
+      * [卸载应用](../soft/%E5%8D%B8%E8%BD%BD%E5%BA%94%E7%94%A8.md)
+      * [查看详情](../soft/%E6%9F%A5%E7%9C%8B%E8%AF%A6%E6%83%85.md)       
+     
     * [豌豆夹](./soft/%E8%B1%8C%E8%B1%86%E5%A4%B9_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
     * [下载（下载管理）](./soft/%E4%B8%8B%E8%BD%BD.md)
     * [终端模拟器](./soft/OtoTernminal%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md)
@@ -48,6 +58,5 @@ bui# Summary
 * [第十三章 技巧](十三.技巧.md)
 * [第十四章 高级](十四.高级.md)
 * [第十五章 问答](十五.问答.md)
-* [第十六章 相关应用初始配置汇总]（十六.相关应用初始配置汇总.md）
-* [第十七章 备注](十七.备注.md)
+* [第十六章 备注](十六.备注.md)
 
