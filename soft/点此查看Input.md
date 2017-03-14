@@ -63,6 +63,6 @@
 ![](../pic/soft/download.png)
   - 页面： 内容显示正常  
   
-![](../pic/soft/下载.png)   
+![](../pic/soft/下载内容.png)   
   - 路径: 默认保存到个人空间的下载目录下
   
