@@ -33,7 +33,7 @@
 ***
 ## 文档
 - 1.WPS  
-![](../pic/soft/wps.png)
+![](../pic/soft/wps测试文档.png)
 ![](../pic/soft/wps_save.png)
   - 页面： 内容显示正常
   - 文字： 显示正常
