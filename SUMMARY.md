@@ -21,7 +21,7 @@
   * [办公]()
     * [文件管理器](./soft/文件管理器.md)
     * [浏览器](./soft/浏览器.md)
-    * [谷歌输入法](./soft/谷歌输入法_使用手册.md)
+    * [输入法](./soft/输入法_使用手册.md)
     * [WPS 邮箱](./soft/WPS 邮箱.md)
     * [WPS Office](./soft/wps.md)
     * [微软 Office](./Office/微软 Office.md)   
