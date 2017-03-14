@@ -19,7 +19,7 @@
 * [第八章 系统设置](八.系统设置.md)
 * [第九章 常用软件](九.常用软件.md)
   * [办公](九.常用软件.md)
-    * [浏览器](./soft/浏览器.md)
+    * [Internet浏览器](./soft/浏览器.md)
     * [输入法](./soft/输入法_使用手册.md)
     * [WPS 邮箱](./soft/WPS 邮箱.md)
     * [WPS Office](./soft/wps.md)
