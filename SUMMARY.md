@@ -27,7 +27,7 @@
     * [Word](./Office/Word点此查看.md)
     * [PPT](./Office/PPT点此查看.md)
     * [Excel](./Office/Excel点此查看.md)    
-    * [图库](./soft/图库_使用手册.md)
+    * [图库](./soft/图库_使用手册.md)
     * [微信](./soft/微信.md)
     * [QQ](./soft/QQ.md)   
   * [工具](九.常用软件.md)
