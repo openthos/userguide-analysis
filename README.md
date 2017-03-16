@@ -2,4 +2,6 @@
 
 本用户手册介绍了有关OPENTHOS的安装，配置和使用帮助，包括部分常用软件的使用帮助。
 
-在线网址 http://dev.openthos.org/userguide/ 
+- 在线网址 http://dev.openthos.org/userguide/ 
+- 问题反馈 https://github.com/openthos/userguide-analysis/issues
+- 电子邮件 openthos2017@126.com
