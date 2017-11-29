@@ -1,17 +1,17 @@
-# WPS使用说明书
+# WPS Office使用说明书
 
-## Wps首页功能：  
+## WPS Office首页功能：  
 - 001 使用wps打开文档
-![](../pic/soft/wps.png)  
+![](../pic/soft/WPSOffice.png)  
 
   - 方法一：在左侧点击“打开”图标（第一次打开文档）—> 查找打开文件的位置(如一个任意目录下的文件在“平板”内查找点击路径查找）；
   - 方法二：在左侧点击“最近”图标（打开最近打开过的文档）—> 点击要打开的文档（若要返回，点击窗口左上角的返回按钮）；
-  
-  
+
+
 - 002 支持新建文档
 
   - 点击右下角 “+” 号， 选择自己想要创建的文件类型。
-  
+
 - 003 支持PDF文档浏览  
 
   - 选中PDF文档->选择打开方式-> WPS->浏览完成；
@@ -20,7 +20,7 @@
 ## wps文档中的操作：  
 
 ### 文本
-  
+
 - 001 支持保存wps文档      
   -  菜单->开始->保存选择路径和文件名，保存文件；    
 - 002 支持打印相应文档      
@@ -41,10 +41,10 @@
 ![](../pic/soft/Screenshot_2016-12-28-15-52-56.png)   
 
   - 上方菜单栏->单击文件->另存为->出现弹框，单击右下角的倒三角选择PDF->保存；  
-   
+
 - 010 支持插入图片；  
   ![](../pic/soft/Screenshot_2016-12-28-16-03-55.png)  
-  
+
   - 鼠标放置要插入的位置->上方菜单栏->单击插入->单击图片->出现弹框->选择用户图库->插入；
 - 011 支持插入表格；  
   - 鼠标放置要插入的位置->上方菜单栏->单击插入->表格->选择样式->确定；
@@ -61,7 +61,7 @@
 ![](../pic/soft/Screenshot_2016-12-28-16-14-57.png)  
 ![](../pic/soft/Screenshot_2016-12-28-16-15-07.png)  
   - 鼠标放置要插入的位置->上方菜单栏->查看->查找／替换->进行编辑->确定；
-  
+
 - 018 支持文档符号和多级符号的插入；
 - 019 支持对文本样式的编辑；
 - 020 支持页面背景色的设置；
@@ -81,7 +81,7 @@
 ![](../pic/soft/Screenshot_2016-12-28-16-44-27.png)
 
 - 001 支持保存wps文档  
-  - 菜单->开始->保存选择路径和文件名，保存文件。 
+  - 菜单->开始->保存选择路径和文件名，保存文件。
 - 002 支持打印功能；
   - 菜单->开始->打印->选择样式->打印。
 - 003 支持保存和另存为；
@@ -102,11 +102,11 @@
   - 鼠标选中单元格->键盘上删除键（快捷键Backspace）->直到表格底下的输入框里的文字删除->点击回车->完成删除文本；
 
 - 011 支持自动换行功能；
-  
+
   ![](../pic/soft/Screenshot_2016-12-28-17-09-25.png)  
-  
+
   - 鼠标选中编辑的内容->上方菜单栏->单元格->单击自动换行->完成；  
-   
+
 - 012 支持合并单元格功能
   - 鼠标选中编辑的内容->上方菜单栏->单元格->单击合并拆分->完成；
 - 013 支持插入单元格功能；
@@ -173,12 +173,12 @@
 
 ### 参考案例：  
 - 文本文档(doc)  
-  - [下载zip压缩包](https://github.com/openthos/multiwin-analysis/tree/master/doc/docs.zip) 
+  - [下载zip压缩包](https://github.com/openthos/multiwin-analysis/tree/master/doc/docs.zip)
 - 电子表格文档(xls)
-  - [下载zip压缩包](https://github.com/openthos/multiwin-analysis/tree/master/doc/xls.zip) 
+  - [下载zip压缩包](https://github.com/openthos/multiwin-analysis/tree/master/doc/xls.zip)
 - 幻灯片文档（ppt）
-  - [下载zip压缩包1 (包含前3个ppt)](https://github.com/openthos/multiwin-analysis/tree/master/doc/ppt.zip) 
-  - [下载zip压缩包2 (包含接着的3个ppt)](https://github.com/openthos/multiwin-analysis/tree/master/doc/ppt2.zip) 
-  - [下载最后一个ppt](https://github.com/openthos/multiwin-analysis/tree/master/doc/tmp_19691-一铭翻译云V2.0介绍-950946290.pptx) 
+  - [下载zip压缩包1 (包含前3个ppt)](https://github.com/openthos/multiwin-analysis/tree/master/doc/ppt.zip)
+  - [下载zip压缩包2 (包含接着的3个ppt)](https://github.com/openthos/multiwin-analysis/tree/master/doc/ppt2.zip)
+  - [下载最后一个ppt](https://github.com/openthos/multiwin-analysis/tree/master/doc/tmp_19691-一铭翻译云V2.0介绍-950946290.pptx)
 - PDF文档
-  - [下载1个PDF文档](https://github.com/openthos/multiwin-analysis/tree/master/doc/cy-1.pdf) 
+  - [下载1个PDF文档](https://github.com/openthos/multiwin-analysis/tree/master/doc/cy-1.pdf)
