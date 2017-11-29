@@ -1,7 +1,7 @@
-# QQ使用
-## QQ
-![](../pic/soft/qq.png)   
-
+# QQ
+![](../pic/soft/qq_demo.png)   
+   
+## QQ功能点
 ### QQ登陆
 - 打开应用输入用户名、密码登陆QQ   
 
