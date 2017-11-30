@@ -29,8 +29,7 @@
   - 联系人、隐私
   - 设备锁、帐号安全    
 ![](../pic/soft/qq_security.png)
-  - 安全检测
-  - 点击左上方 "用户头像"-> "设置"-> "安全检测"    
+  - 安全检测  
 ![](../pic/soft/qq_checksecurity.png)
 - 辅助功能
 - 关于QQ与帮助
