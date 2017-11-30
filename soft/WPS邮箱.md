@@ -15,7 +15,7 @@
 
 ### 邮件分类
 - 点击左上角按钮，查看如图邮件分类;
-![](../pic/soft/using-instractions-pic/WPSEmail_classify.png)
+![](../pic/soft/WPSEmail_classify.png)
 
 ### 发送邮件
 ![](../pic/soft/WPSEmail_sendmail.png)
