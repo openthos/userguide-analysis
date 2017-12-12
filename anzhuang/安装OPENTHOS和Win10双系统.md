@@ -17,7 +17,7 @@
    ![](../pic/anzhuang/DoubleSys_boot2.png)
    - 进入选择系统界面，选中OpenThos后按F2键
    - 选择OpenThos Installation
-   - **选择Manul Install**     
+   - **一定要选择Manual Install**     
    ![](../pic/anzhuang/ManualInstall.jpg)
    - 选择Create/Modify partitions
    - 选择要安装的硬盘     
