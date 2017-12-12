@@ -31,10 +31,14 @@
    - 系统提示是否格式化分区选yes
    - 等待系统安装完重启
    - 下载EasyUEFI软件，解压后进入bin目录，打开EasyUEFI.exe
-   - 进入Manage EFI Boot Option
-   - 左边选择windows boot manager，点击Creat new entry按钮（如图）
-   - Typt选”Linux or other OS“，descripion填入“openthos”，target partition选中EFI分区
-   - 点击下方的Browse按钮，选择EFI/boto/bootx64.efi，点OK，点OK
+   - 进入Manage EFI Boot Option     
+   ![](../pic/anzhuang/DoubleSys_easyUEFI1.png)
+   - 左边选择windows boot manager，点击Creat new entry按钮（如图）     
+   ![](../pic/anzhuang/DoubleSys_easyUEFI2.png)
+   - Typt选”Linux or other OS“，descripion填入“openthos”，target partition选中EFI分区     
+   ![](../pic/anzhuang/DoubleSys_easyUEFI3.png)
+   - 点击下方的Browse按钮，选择EFI/boto/bootx64.efi，点OK，点OK     
+   ![](../pic/anzhuang/DoubleSys_easyUEFI4.png)
    - 关闭应用程序，重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出
    - 重启后可进入系统选择界面
    
