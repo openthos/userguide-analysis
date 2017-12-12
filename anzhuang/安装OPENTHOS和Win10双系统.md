@@ -34,6 +34,7 @@
    - 左边选择windows boot manager，点击Creat new entry按钮（如图）
    - Typt选”Linux or other OS“，target partition选中EFI分区，点击下方的Browse按钮
    - 
+   - 重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出
    
 ### OPENTHOS和Win10分别安装在两个硬盘
 #### 步骤
