@@ -1,7 +1,8 @@
 ## 安装OPENTHOS和Win10双系统
 ### OPENTHOS和Win10安装在一个硬盘
 #### 步骤
-   - 开机，进入win10启动盘，进入windows安装程序，设置语言等项目，点击下一步，之后点击现在安装
+   - 开机，进入bios，进入boot标签，选择boot模式为UEFI，保存设置
+   - 进入win10启动盘，进入windows安装程序，设置语言等项目，点击下一步，之后点击现在安装
    - 激活windows，或者选择“我没有产品密钥”
    - 选择安装的操作系统，勾选“我接受许可条款”
    - 选择 “自定义：仅安装windows（高级）”
@@ -32,9 +33,10 @@
    - 下载EasyUEFI软件，解压后进入bin目录，打开EasyUEFI.exe
    - 进入Manage EFI Boot Option
    - 左边选择windows boot manager，点击Creat new entry按钮（如图）
-   - Typt选”Linux or other OS“，target partition选中EFI分区，点击下方的Browse按钮
-   - 
-   - 重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出
+   - Typt选”Linux or other OS“，descripion填入“openthos”，target partition选中EFI分区
+   - 点击下方的Browse按钮，选择EFI/boto/bootx64.efi，点OK，点OK
+   - 关闭应用程序，重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出
+   - 重启后可进入系统选择界面
    
 ### OPENTHOS和Win10分别安装在两个硬盘
 #### 步骤
