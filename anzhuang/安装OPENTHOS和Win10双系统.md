@@ -7,23 +7,29 @@
    - 选择安装的操作系统，勾选“我接受许可条款”
    - 选择 “自定义：仅安装windows（高级）”
    - 删掉要安装的驱动器的所有分区
-   - 选择要安装的分区，点击“新建”按钮，大小随意，但要给OPENTHOS预留至少50G的空间，新建完成后，点击下一步
+   - 选择要安装的分区，点击“新建”按钮，大小随意，但要给OPENTHOS预留至少50G的空间，新建完成后，点击下一步     
+   ![](../pic/anzhuang/DoubleSys_win10part.png)
    - 等待windows安装完成并重启。     
    - 完成windows初始配置后，关闭电脑
-   - 插入OPENTHOS启动盘，开机，按F10键显示Boot Menu（Boot Menu的快捷键因电脑而异，可能是F10、F12或其它，请查阅当前电脑的产品手册）
-   - 选择Openthos的启动盘
+   - 插入OPENTHOS启动盘，开机，按F10键显示Boot Menu（Boot Menu的快捷键因电脑而异，可能是F10、F12或其它，请查阅当前电脑的产品手册）     
+   ![](../pic/anzhuang/DoubleSys_boot1.png)
+   - 选择Openthos的启动盘     
+   ![](../pic/anzhuang/DoubleSys_boot2.png)
    - 进入选择系统界面，选中OpenThos后按F2键
    - 选择OpenThos Installation
-   - 选择Manul Install
+   - **选择Manul Install**     
+   ![](../pic/anzhuang/ManualInstall.jpg)
    - 选择Create/Modify partitions
-   - 选择要安装的硬盘
+   - 选择要安装的硬盘     
+   ![](../pic/anzhuang/DoubleSys_install1.png)
    - 选中Free space，下方的光标移动到[new]，开始新建分区
       - First sector直接输入回车（设置为默认）
       - Size in sectors输入+4G（分出4G的分区）
       - 剩下的两个选项也直接按回车
    - 同样的方式再分一个40G的分区
    - 下方光标选择[Write]，输入yes按回车，之后下方光标选中[Quit]离开
-   - 回到刚才的手动安装界面，开始安装OpenThos的EFI分区。请选择刚才windows装的EFI分区，比如我们在sdc盘安装就是sdc2分区（应该是vfat格式）
+   - 回到刚才的手动安装界面，开始安装OpenThos的EFI分区。请选择刚才windows装的EFI分区，比如我们在sdc盘安装就是sdc2分区（应该是vfat格式）     
+   ![](../pic/anzhuang/DoubleSys_install2.png)
    - **系统会提示是否格式化分区，一定要选“no”！！！**
    - 之后开始安装OpenThos系统，选择刚才新建的4G的分区，系统会让你选择文件系统的格式，选择ext4
    - 系统提示是否格式化分区选yes
@@ -39,7 +45,9 @@
    ![](../pic/anzhuang/DoubleSys_easyUEFI3.png)
    - 点击下方的Browse按钮，选择EFI/boto/bootx64.efi，点OK，点OK     
    ![](../pic/anzhuang/DoubleSys_easyUEFI4.png)
-   - 关闭应用程序，重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出
+   - 关闭应用程序，重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出     
+   ![](../pic/anzhuang/DoubleSys_bios1.png)     
+   ![](../pic/anzhuang/DoubleSys_bios2.png)
    - 重启后可进入系统选择界面
    
 ### OPENTHOS和Win10分别安装在两个硬盘
