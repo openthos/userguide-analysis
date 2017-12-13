@@ -75,6 +75,12 @@
    - 选择OpenThos Installation
    - 选择auto install     
    ![](../pic/anzhuang/AutoInstall.jpg)
-   - 选择一个要安装openthos的空硬盘
-   ![](../pic/anzhuang/DoubleSys_autoInstallChoose.png)
+   - 系统提示后续操作将会有格式化硬盘的操作，选择yes（只格式化下一步选中的硬盘，不会动其它硬盘）     
+   ![](../pic/anzhuang/eraseDrive.jpg)
+   - 选择一个要安装openthos的硬盘（将会格式化此硬盘，请先确保硬盘没有其它要用的系统）
+   ![](../pic/anzhuang/DoubleSys_autoInstallChoose.png)
    - 等待openthos安装完毕并重启
+   - 重启时进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出     
+   ![](../pic/anzhuang/DoubleSys_bios1.png)     
+   ![](../pic/anzhuang/DoubleSys_bios2.png)
+   - 重启后可进入系统选择界面
