@@ -6,7 +6,7 @@
 **注意:win10需要以UEFI模式安装，如果之前已经用bios模式安装了win10,后面的操作可能会导致win10无法启动，如果***
 ### OPENTHOS和Win10安装在一个硬盘
 #### 步骤
-   - 开机，进入bios，进入boot标签，选择boot模式为UEFI，保存设置
+   - 开机，进入bios，进入boot标签，选择boot模式为UEFI，保存设置
    - 进入win10启动盘，进入windows安装程序，设置语言等项目，点击下一步，之后点击现在安装
    - 激活windows，或者选择“我没有产品密钥”
    - 选择安装的操作系统，勾选“我接受许可条款”
@@ -31,7 +31,7 @@
        - First sector直接输入回车（设置为默认）
        - Size in sectors输入+4G（分出4G的分区）
        - 剩下的两个选项也直接按回车
-   - 选中Free space，下方的光标移动到[new]，开始新建openthos data分区     
+   - 选中Free space，下方的光标移动到[new]，开始新建openthos data分区
       ![](../pic/anzhuang/DoubleSys_openthospart.png)
        - First sector直接输入回车（设置为默认）
        - Size in sectors直接输入回车（分区大小设置为剩余所有空间）
@@ -82,9 +82,9 @@
    - 选择OpenThos Installation
    - 选择auto install     
    ![](../pic/anzhuang/AutoInstall.jpg)
-   - 系统提示后续操作将会有格式化硬盘的操作，选择yes（只格式化下一步选中的硬盘，不会动其它硬盘）     
+   - 系统提示后续操作将会有格式化硬盘的操作，选择yes（只格式化下一步选中的硬盘，不会动其它硬盘）     
    ![](../pic/anzhuang/eraseDrive.jpg)
-   - 选择一个要安装openthos的硬盘（将会格式化此硬盘，请先确保硬盘没有其它要用的系统）
+   - 选择一个要安装openthos的硬盘（将会格式化此硬盘，请先确保硬盘没有其它要用的系统）
    ![](../pic/anzhuang/DoubleSys_autoInstallChoose.png)
    - 等待openthos安装完毕并重启
    - 重启时进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出     
