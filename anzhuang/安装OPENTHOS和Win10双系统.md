@@ -47,7 +47,7 @@
    - 之后开始安装OPENTHOS DATA，选择刚才新建的40G的分区，系统会让你选择文件系统的格式，选择ext4
    ![](../pic/anzhuang/DoubleSys_installOpenthosData.png)
    - 系统提示是否格式化分区选yes
-   - 等待系统安装完重启
+   - 等待系统安装完重启，重启后会自动进入win10
    - 下载EasyUEFI软件，解压后进入bin目录，打开EasyUEFI.exe
    - 进入Manage EFI Boot Option     
    ![](../pic/anzhuang/DoubleSys_easyUEFI1.png)
