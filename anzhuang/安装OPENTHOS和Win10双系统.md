@@ -1,6 +1,6 @@
 ## 安装OPENTHOS和Win10双系统
 本文档提供两种安装OPENTHOS和Win10双系统的方法     
-- [OPENTHOS和Win10安装在一个硬盘](安装OPENTHOS和Win10双系统.md#OPENTHOS和Win10安装在一个硬盘)
+- [OPENTHOS和Win10安装在一个硬盘](安装OPENTHOS和Win10双系统.md#openthos和win10安装在一个硬盘)
 - [OPENTHOS和Win10分别安装在两个硬盘](安装OPENTHOS和Win10双系统.md#OPENTHOS和Win10分别安装在两个硬盘)
    
 **注意:win10需要以UEFI模式安装，如果之前已经用bios模式安装了win10,后面的操作可能会导致win10无法启动，如果***
