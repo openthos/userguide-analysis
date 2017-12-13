@@ -55,3 +55,23 @@
    
 ### OPENTHOS和Win10分别安装在两个硬盘
 #### 步骤
+   - 开机，进入bios，进入boot标签，选择boot模式为UEFI，保存设置
+   - 进入win10启动盘，进入windows安装程序，设置语言等项目，点击下一步，之后点击现在安装
+   - 激活windows，或者选择“我没有产品密钥”
+   - 选择安装的操作系统，勾选“我接受许可条款”
+   - 选择 “自定义：仅安装windows（高级）”
+   - 删掉要安装的驱动器的所有分区
+   - 选择要安装的分区，直接点击下一步     
+   ![](../pic/anzhuang/DoubleSys_win10part.png)
+   - 等待windows安装完成并重启。     
+   - 完成windows初始配置后，关闭电脑
+   - 插入OPENTHOS启动盘，开机，按F10键显示Boot Menu（Boot Menu的快捷键因电脑而异，可能是F10、F12或其它，请查阅当前电脑的产品手册）     
+   ![](../pic/anzhuang/DoubleSys_boot1.png)
+   - 选择Openthos的启动盘     
+   ![](../pic/anzhuang/DoubleSys_boot2.png)
+   - 进入选择系统界面，选中OpenThos后按F2键
+   - 选择OpenThos Installation
+   - 选择auto install     
+   ![](../pic/anzhuang/AutoInstall.jpg)
+   - 选择一个安装openthos的硬盘
+   - 等待openthos安装完毕并重启
