@@ -18,10 +18,10 @@
    - 完成windows初始配置后，关闭电脑
    - 插入OPENTHOS启动盘，开机，按F10键显示Boot Menu（Boot Menu的快捷键因电脑而异，可能是F10、F12或其它，请查阅当前电脑的产品手册）     
    ![](../pic/anzhuang/DoubleSys_boot1.png)
-   - 选择Openthos的启动盘     
+   - 在下图界面中通过方向键选中Openthos的启动盘，之后按F2键(注意不是回车)     
    ![](../pic/anzhuang/DoubleSys_boot2.png)
-   - 进入选择系统界面，选中OpenThos后按F2键
-   - 选择OpenThos Installation
+   - 选择OpenThos Installation     
+   ![](../pic/anzhuang/botoF2.png)
    - **一定要选择Manual Install**     
    ![](../pic/anzhuang/ManualInstall.jpg)
    - 选择Create/Modify partitions
