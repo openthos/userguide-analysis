@@ -21,7 +21,7 @@
    ![](../pic/anzhuang/ManualInstall.jpg)
    - 选择Create/Modify partitions
    - 选择要安装的硬盘     
-   ![](../pic/anzhuang/DoubleSys_install1.png)
+   ![](../pic/anzhuang/DoubleSys_install1.png)     
    - 选中Free space，下方的光标移动到[new]，开始新建openthos system分区
       - First sector直接输入回车（设置为默认）
       - Size in sectors输入+4G（分出4G的分区）
