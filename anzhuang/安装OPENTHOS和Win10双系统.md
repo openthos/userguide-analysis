@@ -22,11 +22,14 @@
    - 选择Create/Modify partitions
    - 选择要安装的硬盘     
    ![](../pic/anzhuang/DoubleSys_install1.png)
-   - 选中Free space，下方的光标移动到[new]，开始新建分区
+   - 选中Free space，下方的光标移动到[new]，开始新建openthos system分区
       - First sector直接输入回车（设置为默认）
-      - Size in sectors输入+4G（分出4G的分区）
+      - Size in sectors输入+4G（分出4G的分区）
       - 剩下的两个选项也直接按回车
-   - 同样的方式再分一个40G的分区
+   - 选中Free space，下方的光标移动到[new]，开始新建openthos data分区
+      - First sector直接输入回车（设置为默认）
+      - Size in sectors直接输入回车（分区大小设置为剩余所有空间）
+      - 剩下的两个选项也直接按回车
    - 下方光标选择[Write]，输入yes按回车，之后下方光标选中[Quit]离开
    - 回到刚才的手动安装界面，开始安装OpenThos的EFI分区。请选择刚才windows装的EFI分区，比如我们在sdc盘安装就是sdc2分区（应该是vfat格式）     
    ![](../pic/anzhuang/DoubleSys_install2.png)
