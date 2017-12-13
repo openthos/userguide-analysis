@@ -1,4 +1,8 @@
 ## 安装OPENTHOS和Win10双系统
+本文档提供两种安装OPENTHOS和Win10双系统的方法     
+- [OPENTHOS和Win10安装在一个硬盘](安装OPENTHOS和Win10双系统.md#OPENTHOS和Win10安装在一个硬盘)
+- [OPENTHOS和Win10分别安装在两个硬盘](安装OPENTHOS和Win10双系统.md#OPENTHOS和Win10分别安装在两个硬盘)
+   
 **注意:win10需要以UEFI模式安装，如果之前已经用bios模式安装了win10,后面的操作可能会导致win10无法启动，如果***
 ### OPENTHOS和Win10安装在一个硬盘
 #### 步骤
@@ -55,7 +59,8 @@
    - 关闭应用程序，重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出     
    ![](../pic/anzhuang/DoubleSys_bios1.png)     
    ![](../pic/anzhuang/DoubleSys_bios2.png)
-   - 重启后可进入系统选择界面
+   - 重启后可进入系统选择界面     
+   ![](../pic/anzhuang/DoubleSys_finish.png)
    
 ### OPENTHOS和Win10分别安装在两个硬盘
 #### 步骤
@@ -85,4 +90,5 @@
    - 重启时进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出     
    ![](../pic/anzhuang/DoubleSys_bios1.png)     
    ![](../pic/anzhuang/DoubleSys_bios2.png)
-   - 重启后可进入系统选择界面
+   - 重启后可进入系统选择界面     
+   ![](../pic/anzhuang/DoubleSys_finish.png)
