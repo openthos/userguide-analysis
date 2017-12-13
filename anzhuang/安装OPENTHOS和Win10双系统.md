@@ -60,9 +60,8 @@
    - 激活windows，或者选择“我没有产品密钥”
    - 选择安装的操作系统，勾选“我接受许可条款”
    - 选择 “自定义：仅安装windows（高级）”
-   - 删掉要安装的驱动器的所有分区
-   - 选择要安装的分区，直接点击下一步     
-   ![](../pic/anzhuang/DoubleSys_win10part.png)
+   - 删掉要安装的硬盘的所有分区
+   - 选择要安装的硬盘，直接点击下一步
    - 等待windows安装完成并重启。     
    - 完成windows初始配置后，关闭电脑
    - 插入OPENTHOS启动盘，开机，按F10键显示Boot Menu（Boot Menu的快捷键因电脑而异，可能是F10、F12或其它，请查阅当前电脑的产品手册）     
@@ -73,5 +72,5 @@
    - 选择OpenThos Installation
    - 选择auto install     
    ![](../pic/anzhuang/AutoInstall.jpg)
-   - 选择一个安装openthos的硬盘
+   - 选择一个要安装openthos的空硬盘
    - 等待openthos安装完毕并重启
