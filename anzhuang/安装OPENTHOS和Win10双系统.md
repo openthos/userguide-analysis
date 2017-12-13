@@ -3,7 +3,7 @@
 - [OPENTHOS和Win10安装在一个硬盘](安装OPENTHOS和Win10双系统.md#openthos和win10安装在一个硬盘)
 - [OPENTHOS和Win10分别安装在两个硬盘](安装OPENTHOS和Win10双系统.md#openthos和win10分别安装在两个硬盘)
    
-**注意:win10需要以UEFI模式安装，如果之前已经用bios模式安装了win10,后面的操作可能会导致win10无法启动。如果确认不再使用旧的win10，可以安装下面的步骤重装双系统**
+**注意:win10需要以UEFI模式安装，如果之前已经用bios模式安装了win10,后面的操作可能会导致win10无法启动。如果确认不再使用旧的win10，可以按照下面的步骤重装双系统**
 ### OPENTHOS和Win10安装在一个硬盘
 #### 步骤
    - 开机，进入bios，进入boot标签，选择boot模式为UEFI，保存设置
