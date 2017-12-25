@@ -53,7 +53,7 @@
    ![](../pic/anzhuang/DoubleSys_easyUEFI1.png)
    - 左边选择windows boot manager，点击Creat new entry按钮（如图）     
    ![](../pic/anzhuang/DoubleSys_easyUEFI2.png)
-   - Typt选”Linux or other OS“，descripion填入“openthos”，target partition选中EFI分区     
+   - Type选”Linux or other OS“，descripion填入“openthos”，target partition选中EFI分区     
    ![](../pic/anzhuang/DoubleSys_easyUEFI3.png)
    - 点击下方的Browse按钮，选择EFI/boto/bootx64.efi，点OK，点OK     
    ![](../pic/anzhuang/DoubleSys_easyUEFI4.png)
