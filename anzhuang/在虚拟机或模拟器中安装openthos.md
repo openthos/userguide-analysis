@@ -4,8 +4,8 @@
 ### 方法一、网盘直接下载，解压使用
 1. 百度网盘下载压缩包
 ```  
-链接: https://pan.baidu.com/s/1miqSiak 
-密码: e6js
+链接: https://pan.baidu.com/s/1o9g4KaQ 
+密码: 4mjw
 ```  
 2. 解压使用
 
