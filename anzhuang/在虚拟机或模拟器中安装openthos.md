@@ -9,6 +9,8 @@
 ```  
 2. 解压使用
 
+注：用vmware workstation或者vmware player(windows) 以及 vmware fusion(mac平台）12.0以上版本直接打开运行
+
 ### 方法二、自己创建虚拟机
 1. 下载img镜像   
      
