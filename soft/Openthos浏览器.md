@@ -1,10 +1,10 @@
-# Internet浏览器说明书
+# Openthos浏览器说明书
 
-## Internet浏览器效果图
+## Openthos浏览器效果图
 
 ![](../pic/soft/Internet_58/Internet_home.png)
 
-## Internet浏览器功能点
+## Openthos浏览器功能点
 
 ![](../pic/soft/Internet_58/Internet_overview.png)
 
@@ -74,7 +74,7 @@
       - 编辑框搜索历史记录
       - 常用邮箱登录功能 (网易，QQ，新浪，阿里)
 
-## Internet浏览器 Input
+## Openthos浏览器 Input
 
    - 新闻类
       - 新浪新闻：http://news.sina.com.cn/
