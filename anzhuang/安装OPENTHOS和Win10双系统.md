@@ -84,7 +84,7 @@
    - 选择auto install     
    ![](../pic/anzhuang/AutoInstall.jpg)
    - 系统提示后续操作将会有格式化硬盘的操作，选择yes（只格式化下一步选中的硬盘，不会动其它硬盘）     
-   ![](../pic/anzhuang/eraseDrive.jpg)
+   ![](../pic/anzhuang/eraseDrive.png)
    - 选择一个要安装openthos的硬盘（将会格式化此硬盘，请先确保硬盘没有其它要用的系统）
    ![](../pic/anzhuang/DoubleSys_autoInstallChoose.png)
    - 等待openthos安装完毕并重启
