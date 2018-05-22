@@ -22,12 +22,15 @@
    - 版本：其他64位   
 4. 创建完成后，打开“编辑虚拟机设置”，修改内存大小为2048MB，处理器数量为2。  
 ![](../pic/anzhuang/vmware.png)
+
 5. Display选项，勾选“Accelerate 3D graphic”  
 (若vmware出现“No 3D graphic ...” 错误，可编辑虚拟机文件vmx，加入一行： mks.gl.allowBlacklistedDrivers = "TRUE")  
 ![](../pic/anzhuang/vmware3d.png)
+
 6. VMware机器设置中，选择“Options“ --> "Advanced"， 勾选"Boot with EFI instead of BIOS";  
 （如没有该选项，可编辑虚拟机文件vmx，加入一行：firmware = "efi" ）  
 ![](../pic/anzhuang/vmwareboot.png)
+
 7. 点击设置界面的“添加”按钮，添加一个硬盘挂载vmdk  
 硬件类型选择“磁盘”  
 ![](../pic/anzhuang/hardware.png)  
@@ -37,6 +40,7 @@
 ![](../pic/anzhuang/selectdisk.png)  
 如果弹出是否保留现有格式的选项，选择“保留现有格式”  
 ![](../pic/anzhuang/keepfmt.png)
+
 8. 启动后在boto界面（如下图）按F2键  
 ![](../pic/anzhuang/boto1.png)  
 选择“Openthos installation”  
@@ -46,7 +50,8 @@
 选择 是  
 ![](../pic/anzhuang/vmAutoInstall1.png)  
 选择一开始创建的那个硬盘  
-![](../pic/anzhuang/vmAutoInstall2.png)  
+![](../pic/anzhuang/vmAutoInstall2.png)
+
 等待，虚拟机重启后再次进入boto界面，选择左边的Openthos图标进入系统（右边的相当于启动盘），之后进入首次配置，具体说明可参考[首次配置](./三.首次配置.md)
 9. 调整分辨率，默认为1280x720，如果要调到1920x1080修改如下：  
 按Alt+F1进入终端，输入```vi /system/build.prop```  
