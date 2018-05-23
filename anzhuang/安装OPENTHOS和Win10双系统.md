@@ -70,8 +70,7 @@
 ![](../pic/anzhuang/DoubleSys_easyUEFI4.png)
 
 32. 关闭应用程序，重启电脑，进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出  
-![](../pic/anzhuang/DoubleSys_bios1.png)  
-  
+![](../pic/anzhuang/DoubleSys_bios1.png)<br />  
 ![](../pic/anzhuang/DoubleSys_bios2.png)
 
 33. 重启后可进入系统选择界面  
@@ -110,8 +109,7 @@
    
 16. 等待openthos安装完毕并重启
 17. 重启时进入BIOS设置，进入Boot标签，Boot Option#1 选择Windows Boot Manager，进入UEFI Hard Disk Drives BBS Priorities，将openthos设置到Boot Option #1，保存并退出  
-![](../pic/anzhuang/DoubleSys_bios1.png)  
-  
+![](../pic/anzhuang/DoubleSys_bios1.png)<br />  
 ![](../pic/anzhuang/DoubleSys_bios2.png)
    
 18. 重启后可进入系统选择界面  
