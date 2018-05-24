@@ -1,6 +1,6 @@
 ## WPS Office使用说明书
 
-### WPS Office首页功能：
+### WPS Office首页功能
 ![](../pic/soft/WPSOffice/WPSOffice.png)
 
    - 使用wps打开文档
