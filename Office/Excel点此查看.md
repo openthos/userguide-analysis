@@ -1,5 +1,4 @@
-# office_excel的使用
-## Excel
+### Excel
 ![](../pic/soft/tmp_4997-Screenshot_2017-03-07-18-40-16401459281.png)
 
    - 使用office打开文档
