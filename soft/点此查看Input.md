@@ -39,7 +39,7 @@
       - 页面： 内容显示正常
       - 文字： 显示正常
       - 编辑： 无法编辑，需登录MSOffice帐号
-   - 920编辑器  
+   - 文本编辑器  
 ![](../pic/soft/filemanager/fileinput_920text.png)
    
       - 页面： 内容显示正常
