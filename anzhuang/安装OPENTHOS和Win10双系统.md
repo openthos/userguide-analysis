@@ -29,7 +29,7 @@
 ![](../pic/anzhuang/botoF2.png)
    
 13. **一定要选择Manual Install**  
-![](../pic/anzhuang/ManualInstall.jpg)
+![](../pic/anzhuang/ManualInstall.png)
    
 14. 选择Create/Modify partitions
 15. 择要安装的硬盘  
@@ -99,7 +99,7 @@
 ![](../pic/anzhuang/botoF2.png)
    
 13. 选择auto install  
-![](../pic/anzhuang/AutoInstall.jpg)
+![](../pic/anzhuang/AutoInstall.png)
    
 14. 系统提示后续操作将会有格式化硬盘的操作，选择yes（只格式化下一步选中的硬盘，不会动其它硬盘）  
 ![](../pic/anzhuang/eraseDrive.png)
