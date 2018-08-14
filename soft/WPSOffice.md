@@ -1,5 +1,7 @@
 ## WPS Office使用说明书
 
+### [WPS Office问题查询](http://wps.udesk.cn/hc)
+
 ### WPS Office首页功能
 ![](../pic/soft/WPSOffice/WPSOffice.png)
 
