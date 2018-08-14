@@ -13,4 +13,4 @@
 ![](../pic/soft/outlook.png)
 
 [OneNote使用说明](https://support.office.com/zh-cn/onenote)  
-![](../pic/soft/onenote.png)
+
