@@ -52,7 +52,7 @@
 选择一开始创建的那个硬盘  
 ![](../pic/anzhuang/vmAutoInstall2.png)
 
-等待，虚拟机重启pan再次进入boto界面，选择左边的Openthos图标进入系统（右边的相当于U盘启动），之后进入[OPENTHOS启动界面](./一.安装.md#启动界面)。
+等待，虚拟机重启pan再次进入boto界面，选择左边的Openthos图标进入系统（右边的相当于U盘启动），之后进入[OPENTHOS启动界面](../一.安装.md#启动界面)。  
 9. 调整分辨率，默认为1280x720，如果要调到1920x1080修改如下：  
 按Alt+F1进入终端，输入```vi /system/build.prop```  
 添加```debug.drm.mode.force=1920x1080@60```  
