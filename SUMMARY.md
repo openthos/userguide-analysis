@@ -9,23 +9,6 @@
 * [第七章 通知栏](七.通知栏.md)
 * [第八章 系统设置](八.系统设置.md)
 * [第九章 常用软件](九.常用软件.md)
-    * 系统软件     
-        * [文件管理器](./soft/文件管理器.md)
-        * [应用商店](./soft/AppStore使用说明.md)
-        * [Openthos浏览器](./soft/Openthos浏览器.md)
-    * 办公软件
-        * 微软Office
-        * WPS Office
-        * [微信](./soft/微信.md)
-        * [QQ](./soft/QQ.md)
-    * 工具
-        * [终端模拟器](./soft/OtoTernminal使用手册.md)
-        * [压缩软件](./soft/压缩软件.md)
-        * [输入法](./soft/输入法_使用手册.md)
-        * [键盘映射](./soft/键盘映射.md)
-        * [相机](./soft/相机.md)
-        * [VLC播放器](./soft/VLC_使用手册.md)
-        * [网易云音乐](https://music.163.com/#/topic?id=18838139)
 * [第十章 外部设备](十.外部设备.md)
 * [第十一章 系统升级](十一.系统升级.md)
 * [第十三章 技巧](十三.技巧.md)
