@@ -1,4 +1,4 @@
-## 在虚拟机中安装openthos
+## 在虚拟机中安装OPENTHOS
 
 ### vmware 虚拟机安装
 
