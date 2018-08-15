@@ -75,6 +75,8 @@
 
 33. 重启后可进入系统选择界面  
 ![](../pic/anzhuang/DoubleSys_finish.png)
+
+34. 选择OPENTHOS系统，进入[OPENTHOS启动界面](../一.安装.md#启动界面)。
    
 ### OPENTHOS和Win10分别安装在两个硬盘
 #### 步骤
@@ -114,3 +116,5 @@
    
 18. 重启后可进入系统选择界面  
 ![](../pic/anzhuang/DoubleSys_finish.png)
+
+19. 选择OPENTHOS系统，进入[OPENTHOS启动界面](../一.安装.md#启动界面)。
