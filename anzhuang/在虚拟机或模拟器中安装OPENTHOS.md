@@ -98,5 +98,7 @@ quit
 ![](../pic/anzhuang/qemu3.png)
 正在安装
 ![](../pic/anzhuang/qemu4.png)
-安装完成后会自动重启
+安装完成后会自动重启，之后进入[首次配置](../二.首次配置)。
 ![](../pic/anzhuang/qemu5.png)
+
+
