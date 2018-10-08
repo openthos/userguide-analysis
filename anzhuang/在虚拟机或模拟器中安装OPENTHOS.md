@@ -90,7 +90,7 @@ quit
 
 5. 启动虚拟机，默认从hdb启动：  
 `qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda a.raw -enable-kvm -m 4096 -hdb openthos-2.0.0.181008.img -boot once=d`  
-启动在下图的界面按f2进入选项菜单
+启动后在下图的界面按f2进入选项菜单
 ![](../pic/anzhuang/qemu1.png)
 选择安装OPENTHOS
 ![](../pic/anzhuang/qemu2.png)
