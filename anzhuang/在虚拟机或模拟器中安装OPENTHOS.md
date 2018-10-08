@@ -88,7 +88,7 @@ quit
 4. 下载：https://www.kraxel.org/repos/jenkins/edk2/edk2.git-ovmf-x64-0-20180807.281.gc526dcd40f.noarch.rpm  
 将解压后的usr/share/edk2.git/ovmf-x64目录下的/OVMF-pure-efi.fd复制到a.raw所在的目录
 
-5. 启动虚拟机，默认从cdrom启动：  
+5. 启动虚拟机，默认从hdb启动：  
 `qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda a.raw -enable-kvm -m 4096 -hdb openthos-2.0.0.181008.img -boot once=d`  
 启动在下图的界面按f2进入选项菜单
 ![](../pic/anzhuang/qemu1.png)
@@ -99,7 +99,4 @@ quit
 正在安装
 ![](../pic/anzhuang/qemu4.png)
 安装完成后会自动重启
-
-6. 以后可以直接虚拟硬盘启动：
-![](../pic/anzhuang/qemu4.png)
-`qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda a.raw -enable-kvm -m 2048 -vga cirrus`
+![](../pic/anzhuang/qemu5.png)
