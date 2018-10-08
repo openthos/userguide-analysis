@@ -62,7 +62,7 @@
 #### iso镜像
 1. 下载iso镜像
 2. 创建虚拟磁盘：  
-    `qemu-img create a.raw +20G`
+`qemu-img create a.raw +20G`
 3. 手动格式化磁盘：  
 `parted a.raw`  
 ```
@@ -71,26 +71,24 @@ mkpart p ext4 1 20G
 quit
 ```
 4. 启动虚拟机，默认从cdrom启动：  
-`qemu-system-x86_64 -hda a.raw -enable-kvm -m 4096 -cdrom you-download.iso -boot once=d`  
+`qemu-system-x86_64 -hda a.raw -enable-kvm -m 4096 -cdrom you-download.iso -boot once=d`   
 启动后选择安装…… 选择第一个安装grub，第二个安装grub2选择skip，其它随意
 5. 安装后直接虚拟硬盘启动：  
 `qemu-system-x86_64 -hda a.raw -enable-kvm -m 4096 -vga cirrus`
 
 #### img镜像
 1. 下载img镜像
-2. 创建虚拟磁盘：  
-    `qemu-img create a.raw +20G`
-3. 手动格式化磁盘：  
-`parted a.raw`  
+2. 创建虚拟磁盘：`qemu-img create a.raw +20G`
+3. 手动格式化磁盘：`parted a.raw`  
 ```
 mklabel msdos
 mkpart p ext4 1 20G
 quit
 ```
-4. 下载：https://www.kraxel.org/repos/jenkins/edk2/edk2.git-ovmf-x64-0-20180807.281.gc526dcd40f.noarch.rpm
-　　将解压后的usr/share/edk2.git/ovmf-x64目录下的/OVMF-pure-efi.fd复制到a.raw所在的目录
+4. 下载：https://www.kraxel.org/repos/jenkins/edk2/edk2.git-ovmf-x64-0-20180807.281.gc526dcd40f.noarch.rpm  
+将解压后的usr/share/edk2.git/ovmf-x64目录下的/OVMF-pure-efi.fd复制到a.raw所在的目录
 
-５. 启动虚拟机，默认从cdrom启动：  
+5. 启动虚拟机，默认从cdrom启动：  
 `qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda a.raw -enable-kvm -m 4096 -hdb openthos-2.0.0.181008.img -boot once=d`  
 启动在下图的界面按f2进入选项菜单
 ![](../pic/anzhuang/qemu1.png)
@@ -98,8 +96,10 @@ quit
 ![](../pic/anzhuang/qemu2.png)
 选择自动安装
 ![](../pic/anzhuang/qemu3.png)
+正在安装
+![](../pic/anzhuang/qemu4.png)
 安装完成后会自动重启
 
-5. 以后可以直接虚拟硬盘启动：
+6. 以后可以直接虚拟硬盘启动：
 ![](../pic/anzhuang/qemu4.png)
 `qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda a.raw -enable-kvm -m 2048 -vga cirrus`
