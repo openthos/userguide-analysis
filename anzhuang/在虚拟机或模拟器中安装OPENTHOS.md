@@ -93,7 +93,8 @@ quit
 将解压后的usr/share/edk2.git/ovmf-x64目录下的/OVMF-pure-efi.fd复制到a.raw所在的目录
 
 5. 启动虚拟机，默认从hdb启动：  
-`qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda a.raw -enable-kvm -m 4096 -hdb openthos-2.0.0.181008.img -boot once=d`  
+`qemu-system-x86_64 -bios OVMF-pure-efi.fd -hda q-disk.raw -enable-kvm -m 4096 -smp 4 -hdb xposed_x86_64_oto.img -boot once=d`  
+其中，-smp是处理器个数，推荐设置为4个  
 启动后在下图的界面按f2进入选项菜单
 ![](../pic/anzhuang/qemu1.png)
 选择安装OPENTHOS
