@@ -108,28 +108,27 @@ quit
 ### virtualbox
 1. 下载img镜像，转换镜像格式为vmdk，可通过命令行转换：  
 `qemu-img  convert  -f raw -O vmdk  ./（镜像名字）.img  ./（镜像名字）.img.vmdk`
-2. 启动virtualbox后新建虚拟电脑，类型选Linux，版本选Other Linux(64-bit)，内存４G，之后创建虚拟硬盘(硬盘大小建议>20G)
-![](../pic/anzhuang/virtualbox1.png)
+2. 启动virtualbox后新建虚拟电脑，类型选Linux，版本选Other Linux(64-bit)，内存４G，之后创建虚拟硬盘(硬盘大小建议>20G)  
+![](../pic/anzhuang/virtualbox1.png)  
 ![](../pic/anzhuang/virtualbox２.png)
-3. 之后点击上方的设置按钮，进入系统选项，勾选“启用EFI”。上方有处理器标签，点进去可以设置处理器，我们是设置的四个，不然会比较慢
+3. 之后点击上方的设置按钮，进入系统选项，勾选“启用EFI”。上方有处理器标签，点进去可以设置处理器，我们是设置的四个，不然会比较慢  
 ![](../pic/anzhuang/virtualbox３.png)
-4. 进入存储选项，点击“控制器：IDE“边上的”添加虚拟磁盘“按钮，选择”使用现有的虚拟盘“，选择之前转换的vmdk文件
-![](../pic/anzhuang/virtualbox４.png)
+4. 进入存储选项，点击“控制器：IDE“边上的”添加虚拟磁盘“按钮，选择”使用现有的虚拟盘“，选择之前转换的vmdk文件  
+![](../pic/anzhuang/virtualbox４.png)  
 ![](../pic/anzhuang/virtualbox５.png)
-5. 删掉光盘那项，设置新建虚拟磁盘在”第一IDE控制器主通道“，vmdk文件在”第二IDE控制器主通道“（如果无法设置说明被另一个文件占用，可以互相调一下）
-![](../pic/anzhuang/virtualbox６.png)
+5. 删掉光盘那项，设置新建虚拟磁盘在”第一IDE控制器主通道“，vmdk文件在”第二IDE控制器主通道“  
 6. 完成设置，点击上方”启动“按钮
-7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，选“是“，将OPENTHOS安装到新建的虚拟磁盘中，这里选sdb
-![](../pic/anzhuang/virtualbox8.png)
-![](../pic/anzhuang/virtualbox9.png)
-![](../pic/anzhuang/virtualbox10.png)
-![](../pic/anzhuang/virtualbox11.png)
+7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，选“是“，将OPENTHOS安装到新建的虚拟磁盘中，这里选sda  
+![](../pic/anzhuang/virtualbox8.png)  
+![](../pic/anzhuang/virtualbox9.png)  
+![](../pic/anzhuang/virtualbox10.png)  
+![](../pic/anzhuang/virtualbox11.png)  
 ![](../pic/anzhuang/virtualbox12.png)
-8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择”自动缩放模式“，将界面调整到合适大小，调好后应该如下面第二张图
-![](../pic/anzhuang/virtualbox13.png)
+8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择”自动缩放模式“，将界面调整到合适大小，调好后应该如下面第二张图  
+![](../pic/anzhuang/virtualbox13.png)  
 ![](../pic/anzhuang/virtualbox14.png)
-9. 安装完成后会自动重启，重启后在boto界面选择虚拟磁盘的那个启动项，一般左边是sda，右边是sdb，不确定的话可以按f2看菜单，没有安装项的就是虚拟硬盘。之后进入OPENTHOS系统
+9. 安装完成后会自动重启，重启后在boto界面选择虚拟磁盘的那个启动项，一般左边是sda，右边是sdb，不确定的话可以按f2看菜单，没有安装项的就是虚拟硬盘。之后进入OPENTHOS系统  
 ![](../pic/anzhuang/virtualbox16.png)
-10. 正在启动，之后进入[首次配置](../二.首次配置.md)，如果进来后发现无法操作鼠标，可以通过”右ctrl + c“键唤出菜单，在”热键“选项卡下关掉”鼠标集成“。
-![](../pic/anzhuang/virtualbox17.png)
+10. 正在启动，之后进入[首次配置](../二.首次配置.md)，如果进来后发现无法操作鼠标，可以通过”右ctrl + c“键唤出菜单，在”热键“选项卡下关掉”鼠标集成“。  
+![](../pic/anzhuang/virtualbox17.png)  
 ![](../pic/anzhuang/virtualbox1８.png)
