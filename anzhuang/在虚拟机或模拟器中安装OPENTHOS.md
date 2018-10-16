@@ -120,3 +120,5 @@ quit
 ![](../pic/anzhuang/virtualbox６.png)
 ![](../pic/anzhuang/virtualbox７.png)
 6. 完成设置，点击上方”启动“按钮
+7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，将OPENTHOS安装到新建的虚拟磁盘中，这里选sdb
+8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择
