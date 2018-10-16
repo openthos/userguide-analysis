@@ -3,7 +3,7 @@
    - [qemu](#qemu)
       - [iso镜像](#iso镜像)
       - [img镜像](#img镜像)
-   - virtualbox
+   - [virtualbox](#virtualbox)
 ### vmware
 
 #### 方法一、网盘直接下载，解压使用
@@ -116,9 +116,24 @@ quit
 4. 进入存储选项，点击“控制器：IDE“边上的”添加虚拟磁盘“按钮，选择”使用现有的虚拟盘“，选择之前转换的vmdk文件
 ![](../pic/anzhuang/virtualbox４.png)
 ![](../pic/anzhuang/virtualbox５.png)
-5. 删掉光盘那项，设置vmdk文件在”第一IDE控制器主通道“，新建虚拟磁盘在”第一IDE控制器从通道“（如果无法设置说明被另一个文件占用，可以互相调一下）
+5. 删掉光盘那项，设置vmdk文件在”第一IDE控制器主通道“，新建虚拟磁盘在”第二IDE控制器主通道“（如果无法设置说明被另一个文件占用，可以互相调一下）
 ![](../pic/anzhuang/virtualbox６.png)
-![](../pic/anzhuang/virtualbox７.png)
 6. 完成设置，点击上方”启动“按钮
-7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，将OPENTHOS安装到新建的虚拟磁盘中，这里选sdb
-8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择
+7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，选“是“，将OPENTHOS安装到新建的虚拟磁盘中，这里选sdb
+![](../pic/anzhuang/virtualbox8.png)
+![](../pic/anzhuang/virtualbox9.png)
+![](../pic/anzhuang/virtualbox10.png)
+![](../pic/anzhuang/virtualbox11.png)
+![](../pic/anzhuang/virtualbox12.png)
+8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择”自动缩放模式“，将界面调整到合适大小，调好后应该如下面第二张图
+![](../pic/anzhuang/virtualbox13.png)
+![](../pic/anzhuang/virtualbox14.png)
+9. 安装完后会提示是否覆盖启动项，选择“yes”，之后系统重启
+![](../pic/anzhuang/virtualbox15.png)
+10. 关闭虚拟机，回到之前的设置菜单，进入存储，删掉vmdk选项，将新建磁盘设置为”第一IDE控制器主通道“，点击确定后重启
+![](../pic/anzhuang/virtualbox７.png)
+12. 重启后在boto界面直接按回车，进入OPENTHOS系统
+![](../pic/anzhuang/virtualbox16.png)
+13. 正在启动，之后进入[首次配置](../二.首次配置.md)，如果进来后发现无法操作鼠标，可以通过”右ctrl + c“键唤出菜单，在”热键“选项卡下关掉”鼠标集成“。
+![](../pic/anzhuang/virtualbox17.png)
+![](../pic/anzhuang/virtualbox1８.png)
