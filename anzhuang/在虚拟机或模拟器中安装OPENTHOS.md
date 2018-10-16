@@ -118,14 +118,17 @@ quit
 ![](../pic/anzhuang/virtualbox5.png)
 5. 删掉光盘那项，设置新建虚拟磁盘在”第一IDE控制器主通道“，vmdk文件在”第二IDE控制器主通道“  
 6. 完成设置，点击上方”启动“按钮
-7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，选“是“，将OPENTHOS安装到新建的虚拟磁盘中，这里选sda  
+7. 进入boto界面，如图  
 ![](../pic/anzhuang/virtualbox8.png)  
+按f2键进入选项菜单，选择安装OPENTHOS  
 ![](../pic/anzhuang/virtualbox9.png)  
+选择自动安装  
 ![](../pic/anzhuang/virtualbox10.png)  
+选“是“
 ![](../pic/anzhuang/virtualbox11.png)  
+将OPENTHOS安装到新建的虚拟磁盘中，这里选sda
 ![](../pic/anzhuang/virtualbox12.png)
-8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择”自动缩放模式“，将界面调整到合适大小，调好后应该如下面第二张图  
-![](../pic/anzhuang/virtualbox13.png)  
+8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择”自动缩放模式“，将界面调整到合适大小  
 ![](../pic/anzhuang/virtualbox14.png)
 9. 安装完成后会自动重启，重启后在boto界面选择虚拟磁盘的那个启动项，一般左边是sda，右边是sdb，不确定的话可以按f2看菜单，没有安装项的就是虚拟硬盘。之后进入OPENTHOS系统  
 ![](../pic/anzhuang/virtualbox16.png)
