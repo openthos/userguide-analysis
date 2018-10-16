@@ -106,17 +106,17 @@ quit
 ![](../pic/anzhuang/qemu5.png)
 
 ### virtualbox
-1. 下载img镜像，转换镜像格式为vmdk，可通过命令行转换：　　
-```qemu-img  convert  -f raw -O vmdk  ./（镜像名字）.img  ./（镜像名字）.img.vmdk```
+1. 下载img镜像，转换镜像格式为vmdk，可通过命令行转换：  
+`qemu-img  convert  -f raw -O vmdk  ./（镜像名字）.img  ./（镜像名字）.img.vmdk`
 2. 启动virtualbox后新建虚拟电脑，类型选Linux，版本选Other Linux(64-bit)，内存４G，之后创建虚拟硬盘(硬盘大小建议>20G)
 ![](../pic/anzhuang/virtualbox1.png)
 ![](../pic/anzhuang/virtualbox２.png)
-3. 之后点击上方的设置按钮，进入系统选项，勾选“启用EFI”
+3. 之后点击上方的设置按钮，进入系统选项，勾选“启用EFI”。上方有处理器标签，点进去可以设置处理器，我们是设置的四个，不然会比较慢
 ![](../pic/anzhuang/virtualbox３.png)
 4. 进入存储选项，点击“控制器：IDE“边上的”添加虚拟磁盘“按钮，选择”使用现有的虚拟盘“，选择之前转换的vmdk文件
 ![](../pic/anzhuang/virtualbox４.png)
 ![](../pic/anzhuang/virtualbox５.png)
-5. 删掉光盘那项，设置vmdk文件在”第一IDE控制器主通道“，新建虚拟磁盘在”第二IDE控制器主通道“（如果无法设置说明被另一个文件占用，可以互相调一下）
+5. 删掉光盘那项，设置新建虚拟磁盘在”第一IDE控制器主通道“，vmdk文件在”第二IDE控制器主通道“（如果无法设置说明被另一个文件占用，可以互相调一下）
 ![](../pic/anzhuang/virtualbox６.png)
 6. 完成设置，点击上方”启动“按钮
 7. 进入boto界面，如图，按f2键进入选项菜单，选择安装OPENTHOS，选择自动安装，选“是“，将OPENTHOS安装到新建的虚拟磁盘中，这里选sdb
