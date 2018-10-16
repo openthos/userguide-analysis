@@ -3,7 +3,7 @@
    - [qemu](#qemu虚拟机安装)
       - [iso镜像](#iso镜像)
       - [img镜像](#img镜像)
-   - [virtualbox]
+   - virtualbox
 ### vmware虚拟机安装
 
 #### 方法一、网盘直接下载，解压使用
