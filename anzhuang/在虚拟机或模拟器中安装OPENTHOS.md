@@ -1,10 +1,10 @@
 ## 在虚拟机中安装OPENTHOS
-   - [vmware](#vmware虚拟机安装)
-   - [qemu](#qemu虚拟机安装)
+   - [vmware](#vmware)
+   - [qemu](#qemu)
       - [iso镜像](#iso镜像)
       - [img镜像](#img镜像)
    - virtualbox
-### vmware虚拟机安装
+### vmware
 
 #### 方法一、网盘直接下载，解压使用
 1. 百度网盘下载压缩包
@@ -62,7 +62,7 @@
 添加```debug.drm.mode.force=1920x1080@60```  
 保存后重启虚拟机
 
-### qemu虚拟机安装
+### qemu
 #### iso镜像
 1. 下载iso镜像
 2. 创建虚拟磁盘：  
@@ -105,4 +105,18 @@ quit
 安装完成后会自动重启，之后进入[首次配置](../二.首次配置.md)。
 ![](../pic/anzhuang/qemu5.png)
 
-
+### virtualbox
+1. 下载img镜像，转换镜像格式为vmdk，可通过命令行转换：　　
+```qemu-img  convert  -f raw -O vmdk  ./（镜像名字）.img  ./（镜像名字）.img.vmdk```
+2. 启动virtualbox后新建虚拟电脑，类型选Linux，版本选Other Linux(64-bit)，内存４G，之后创建虚拟硬盘(硬盘大小建议>20G)
+![](../pic/anzhuang/virtualbox1.png)
+![](../pic/anzhuang/virtualbox２.png)
+3. 之后点击上方的设置按钮，进入系统选项，勾选“启用EFI”
+![](../pic/anzhuang/virtualbox３.png)
+4. 进入存储选项，点击“控制器：IDE“边上的”添加虚拟磁盘“按钮，选择”使用现有的虚拟盘“，选择之前转换的vmdk文件
+![](../pic/anzhuang/virtualbox４.png)
+![](../pic/anzhuang/virtualbox５.png)
+5. 删掉光盘那项，设置vmdk文件在”第一IDE控制器主通道“，新建虚拟磁盘在”第一IDE控制器从通道“（如果无法设置说明被另一个文件占用，可以互相调一下）
+![](../pic/anzhuang/virtualbox６.png)
+![](../pic/anzhuang/virtualbox７.png)
+6. 完成设置，点击上方”启动“按钮
