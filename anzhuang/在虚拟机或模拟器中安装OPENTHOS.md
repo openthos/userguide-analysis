@@ -128,12 +128,8 @@ quit
 8. 正在安装，需要一些时间，这时可以进入上方菜单的”视图“，选择”自动缩放模式“，将界面调整到合适大小，调好后应该如下面第二张图
 ![](../pic/anzhuang/virtualbox13.png)
 ![](../pic/anzhuang/virtualbox14.png)
-9. 安装完后会提示是否覆盖启动项，选择“yes”，之后系统重启
-![](../pic/anzhuang/virtualbox15.png)
-10. 关闭虚拟机，回到之前的设置菜单，进入存储，删掉vmdk选项，将新建磁盘设置为”第一IDE控制器主通道“，点击确定后重启
-![](../pic/anzhuang/virtualbox７.png)
-12. 重启后在boto界面直接按回车，进入OPENTHOS系统
+9. 安装完成后会自动重启，重启后在boto界面选择虚拟磁盘的那个启动项，一般左边是sda，右边是sdb，不确定的话可以按f2看菜单，没有安装项的就是虚拟硬盘。之后进入OPENTHOS系统
 ![](../pic/anzhuang/virtualbox16.png)
-13. 正在启动，之后进入[首次配置](../二.首次配置.md)，如果进来后发现无法操作鼠标，可以通过”右ctrl + c“键唤出菜单，在”热键“选项卡下关掉”鼠标集成“。
+10. 正在启动，之后进入[首次配置](../二.首次配置.md)，如果进来后发现无法操作鼠标，可以通过”右ctrl + c“键唤出菜单，在”热键“选项卡下关掉”鼠标集成“。
 ![](../pic/anzhuang/virtualbox17.png)
 ![](../pic/anzhuang/virtualbox1８.png)
