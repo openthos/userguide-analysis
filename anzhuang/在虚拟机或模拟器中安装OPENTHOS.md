@@ -1,6 +1,10 @@
 ## 在虚拟机中安装OPENTHOS
-
-### vmware 虚拟机安装
+   - [vmware](#vmware虚拟机安装)
+   - [qemu](#qemu虚拟机安装)
+      - [iso镜像](#iso镜像)
+      - [img镜像](#img镜像)
+   - [virtualbox]
+### vmware虚拟机安装
 
 #### 方法一、网盘直接下载，解压使用
 1. 百度网盘下载压缩包
@@ -58,7 +62,7 @@
 添加```debug.drm.mode.force=1920x1080@60```  
 保存后重启虚拟机
 
-### qemu 虚拟机安装
+### qemu虚拟机安装
 #### iso镜像
 1. 下载iso镜像
 2. 创建虚拟磁盘：  
