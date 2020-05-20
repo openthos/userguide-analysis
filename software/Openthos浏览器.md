@@ -1,9 +1,9 @@
 ## 5.5 Openthos浏览器说明书
 Openthos浏览器效果图  
-![](../pic/soft/Internet_58/Internet_home.png)
+![](../_pic/5_WebBrowser/Internet_home.png)
 
 ### Openthos浏览器功能点
-![](../pic/soft/Internet_58/Internet_overview.png)
+![](../_pic/5_WebBrowser/Internet_overview.png)
 
    - 标题栏
       - 最小化 --（点击使浏览器最小化）
@@ -20,30 +20,30 @@ Openthos浏览器效果图
       - 平板模式
       - 手机模式
    - 下载 --（查看下载页面）  
-![](../pic/soft/Internet_58/Internet_Downloads.png)
+![](../_pic/5_WebBrowser/Internet_Downloads.png)
    - 书签 --（点击添加书签，再次点击移除书签）  
-![](../pic/soft/Internet_58/Internet_mark.png)<br />  
-![](../pic/soft/Internet_58/Internet_unmark.png)
+![](../_pic/5_WebBrowser/Internet_mark.png)<br />  
+![](../_pic/5_WebBrowser/Internet_unmark.png)
 
    - 视图 --（总览全部已打开的页面，可选择您需要的页面）  
-![](../pic/soft/Internet_58/Internet_view.png)
+![](../_pic/5_WebBrowser/Internet_view.png)
 
       - 隐私浏览模式  
-![](../pic/soft/Internet_58/Internet_private.png)
+![](../_pic/5_WebBrowser/Internet_private.png)
 
    - 更多  
-![](../pic/soft/Internet_58/Internet_more.png)
+![](../_pic/5_WebBrowser/Internet_more.png)
 
       - 分享
       - 新建标签页
       - 新建隐私标签页
       - 书签  
-![](../pic/soft/Internet_58/Internet_bookmarks.png)
+![](../_pic/5_WebBrowser/Internet_bookmarks.png)
 
       - 历史记录
       - 在页面中查找
       - 页面  
-![](../pic/soft/Internet_58/Internet_page.png)
+![](../_pic/5_WebBrowser/Internet_page.png)
 
          - 订阅
          - 另存为PDF
@@ -51,27 +51,27 @@ Openthos浏览器效果图
          - 添加搜索引擎
          - 添加到主屏幕
       - 工具  
-![](../pic/soft/Internet_58/Internet_tools.png)
+![](../_pic/5_WebBrowser/Internet_tools.png)
 
          - 登录信息
          - 新建访客会话
       - 设置  
-![](../pic/soft/Internet_58/Internet_setting.png)
+![](../_pic/5_WebBrowser/Internet_setting.png)
 
       - 帮助  
-![](../pic/soft/Internet_58/Internet_help.png)
+![](../_pic/5_WebBrowser/Internet_help.png)
 
       - uBlock Origin  
-![](../pic/soft/Internet_58/Internet_ublock.png)
+![](../_pic/5_WebBrowser/Internet_ublock.png)
 
       - UserAgent --（可选择不同的页面浏览模式，相比模式切换按钮，选择项目更多）  
-![](../pic/soft/Internet_58/Internet_agent.png)
+![](../_pic/5_WebBrowser/Internet_agent.png)
 
    - 使用技巧
       - 使用ctrl + =/-缩放页面
       - 使用ctlr + 0将页面改为原始大小
       - 页面内容鼠标拖动 --（片选）  
-![](../pic/soft/Internet_58/Internet_choose.png)
+![](../_pic/5_WebBrowser/Internet_choose.png)
 
       - 快捷键ctrl + A --（选择全部内容）
       - 快捷键ctrl + c --（复制）
