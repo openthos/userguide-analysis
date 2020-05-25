@@ -1,6 +1,6 @@
 ## 5.4 应用商店
 
-![](../_pic/5_AppStore/AppS_demo.png)
+![](./_pic/5_AppStore/AppS_demo.png)
      
 ### 5.4.1 操作说明
    - 首页，软件，游戏这三个页面中点击单个软件可进入软件详情，在这里可以查看这些个软件的具体内容，左上部分的应用图标下面有下载按钮，也可以点击这个按钮进行软件的下载等一系列操作。点击单个软件的右半部分的按钮，根据按钮显示的内容可以进行下载，暂停，更新等操作
@@ -12,13 +12,13 @@
       - 常用软件
       - more --（点击可以查看更多软件内容）
    - 软件 --（展示属于非游戏类的软件）  
-![](../_pic/5_AppStore/AppS_soft.png)
+![](./_pic/5_AppStore/AppS_soft.png)
 
    - 游戏 --（展示属于游戏类的软件）  
-![](../_pic/5_AppStore/AppS_game.png)
+![](./_pic/5_AppStore/AppS_game.png)
 
    - 管理 --（查看软件的下载情况）  
-![](../_pic/5_AppStore/AppS_manage.png)
+![](./_pic/5_AppStore/AppS_manage.png)
 
       - 更新 --（本机已经安装的软件）
          - 点击内容项会弹出应用信息框，可进行卸载，清除缓存等操作
@@ -38,7 +38,7 @@
 
 ### 5.4.2 应用商店功能
 #### 查询应用
-![](../_pic/5_AppStore/AppS_ruanjian.png)
+![](./_pic/5_AppStore/AppS_ruanjian.png)
      
    - 每一个页面都可以进行搜索操作
    - 搜索操作在页面的右上角，本应用做的是关键字匹配
@@ -47,25 +47,25 @@
 #### 下载应用
    - 在应用列表中点击应用右下角的绿色图标按钮，即可下载应用。图标按钮含义如下：
       - 下载  
-![](../_pic/5_AppStore/AppS_download.png)
+![](./_pic/5_AppStore/AppS_download.png)
 
       - 下载中  
-![](../_pic/5_AppStore/AppS_downloading.png)
+![](./_pic/5_AppStore/AppS_downloading.png)
 
       - 暂停下载  
-![](../_pic/5_AppStore/AppS_pause.png)
+![](./_pic/5_AppStore/AppS_pause.png)
 
       - 更新  
-![](../_pic/5_AppStore/AppS_update.png)
+![](./_pic/5_AppStore/AppS_update.png)
 
       - 安装  
-![](../_pic/5_AppStore/AppS_install.png)
+![](./_pic/5_AppStore/AppS_install.png)
 
       - 运行  
-![](../_pic/5_AppStore/AppS_run.png)
+![](./_pic/5_AppStore/AppS_run.png)
 
    - 在应用详情页面找到下载按钮，点击进行应用下载  
-![](../_pic/5_AppStore/AppS_detail.png)
+![](./_pic/5_AppStore/AppS_detail.png)
 
 #### 安装应用
    - 如果这个应用没有下载，需要先进行下载
@@ -73,16 +73,16 @@
    - 所用通过AppStore下载的应用默认的存储路径是（/storage/emulated/0/Download/app），快捷路径（文件管理器->个人空间->下载->app），可以进入这个目录找到你所下载的应用，双击可进行安装
    - 可以点击应用列表中的下载图标进行安装
    - 也可以选择AppStore的管理页面，在下面的下载中有已下载的应用，点击可弹出一个菜单，点击上面的“安装”选项就可以进行安装  
-![](../_pic/5_AppStore/AppS_installmanage.png)
+![](./_pic/5_AppStore/AppS_installmanage.png)
    
    - 进入应用详情页面，如果下载完成会有“安装”提示，点击可以进行安装
 
 #### 卸载应用
    - 点击管理页面，查看上面的已安装选项，点击会弹出卸载的设置框，在上面可进行应用操作  
-![](../_pic/5_AppStore/AppS_uninstall.png)
+![](./_pic/5_AppStore/AppS_uninstall.png)
 
 #### 查看详情
-![](../_pic/5_AppStore/AppS_detail.png)
+![](./_pic/5_AppStore/AppS_detail.png)
 
    - 通过点击每一个软件的列表项，皆可以进入软件详情页面，这时可以查看软件的具体信息，同样，软件页面也有一定的操作
    - 点击icon下面的按钮可以进行软件下载的操作（暂停，继续，安装）
@@ -90,7 +90,7 @@
 #### 应用管理
    - 打开管理页面，上面的主要显示已安装的应用，可以进行应用卸载操作。
    - 管理页面下载主要显示正在下载的任务和可以安装的应用  
-![](../_pic/5_AppStore/AppS_manage.png)
+![](./_pic/5_AppStore/AppS_manage.png)
 
 ### 5.4.3 功能点
    - 通过关键字查找应用

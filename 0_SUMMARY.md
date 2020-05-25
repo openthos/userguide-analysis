@@ -12,17 +12,17 @@
 
 * [第五章 常用软件](五.常用软件.md)
 
-    * [5.1 文件管理器](./soft/文件管理器.md)
-    * [5.2 网上邻居](./soft/网上邻居.md)
-    * [5.3 云服务](./soft/云服务.md)
-    * [5.4 应用商店](./soft/AppStore使用说明.md)
-    * [5.5 Openthos浏览器](./soft/Openthos浏览器.md)
-
-    * [5.6 终端](./soft/终端.md)
-    * [5.7 输入法](./soft/输入法_使用手册.md)
-    * [5.8 键盘映射](./soft/键盘映射.md)
-    * [5.9 相机](./soft/相机.md)
-    * [5.10 压缩软件](./soft/压缩软件.md)
+    * [5.1 文件管理器](./software/文件管理器.md)
+    * [5.2 网上邻居](./software/网上邻居.md)
+    * [5.3 云服务](./software/云服务.md)
+    * [5.4 应用商店](./software/AppStore使用说明.md)
+    * [5.5 Openthos浏览器](./software/Openthos浏览器.md)
+    * [5.6 终端](./software/终端.md)
+    * [5.7 输入法](./software/输入法_使用手册.md)
+    * [5.8 键盘映射](./software/键盘映射.md)
+    * [5.9 相机](./software/相机.md)
+    * [5.10 压缩软件](./software/压缩软件.md)
+    * [5.11 图片浏览器](./software/5_11_图片浏览器.md)
 
 * [第六章 外部设备](六.外部设备.md)
 

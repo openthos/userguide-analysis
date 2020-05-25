@@ -1,4 +1,4 @@
-SOFT_SOURCE := software/5_常用软件.md software/文件管理器.md software/网上邻居.md software/云服务.md software/AppStore使用说明.md software/Openthos浏览器.md software/终端.md software/输入法_使用手册.md software/键盘映射.md software/相机.md software/压缩软件.md
+SOFT_SOURCE := 5_常用软件.md 5_1_文件管理器.md 5_2_网上邻居.md 5_3_云服务.md 5_4_AppStore使用说明.md 5_5_Openthos浏览器.md 5_6_终端.md 5_7_输入法_使用手册.md 5_8_键盘映射.md 5_9_相机.md 5_10_压缩软件.md 5_11_图片浏览器.md
 
 all:user_manual.docx
 
