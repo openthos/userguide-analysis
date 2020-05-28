@@ -1,10 +1,8 @@
 ## 5.5 Openthos浏览器说明书
 Openthos浏览器效果图  
-![](./_pic/5_WebBrowser/Internet_home.png)
+![](./_pic/5_WebBrowser/WebBrowser_demo.png)
 
 ### Openthos浏览器功能点
-![](./_pic/5_WebBrowser/Internet_overview.png)
-
    - 标题栏
       - 最小化 --（点击使浏览器最小化）
       - 最大化/窗口化 --（点击可在最大化/窗口化之间切换）
@@ -20,69 +18,70 @@ Openthos浏览器效果图
       - 平板模式
       - 手机模式
    - 下载 --（查看下载页面）  
-![](./_pic/5_WebBrowser/Internet_Downloads.png)
+    ![](./_pic/5_WebBrowser/webbrowser_downloads.png)
    - 书签 --（点击添加书签，再次点击移除书签）  
-![](./_pic/5_WebBrowser/Internet_mark.png)<br />  
-![](./_pic/5_WebBrowser/Internet_unmark.png)
+    ![](./_pic/5_WebBrowser/webbrowser_bookmark.png)
 
    - 视图 --（总览全部已打开的页面，可选择您需要的页面）  
-![](./_pic/5_WebBrowser/Internet_view.png)
+    ![](./_pic/5_WebBrowser/Internet_view.png)
 
-      - 隐私浏览模式  
-![](./_pic/5_WebBrowser/Internet_private.png)
+   - 隐私浏览模式  
+    ![](./_pic/5_WebBrowser/Internet_private.png)
 
    - 更多  
-![](./_pic/5_WebBrowser/Internet_more.png)
+    ![](./_pic/5_WebBrowser/Internet_more.png)
 
-      - 分享
-      - 新建标签页
-      - 新建隐私标签页
-      - 书签  
-![](./_pic/5_WebBrowser/Internet_bookmarks.png)
+   - 分享
+   - 新建标签页
+   - 新建隐私标签页
+   - 书签  
+    ![](./_pic/5_WebBrowser/Internet_bookmarks.png)
 
-      - 历史记录
-      - 在页面中查找
-      - 页面  
-![](./_pic/5_WebBrowser/Internet_page.png)
+   - 历史记录
+   - 在页面中查找
+   - 页面  
+    ![](./_pic/5_WebBrowser/Internet_page.png)
 
-         - 订阅
-         - 另存为PDF
-         - 打印
-         - 添加搜索引擎
-         - 添加到主屏幕
-      - 工具  
-![](./_pic/5_WebBrowser/Internet_tools.png)
+      - 订阅
+      - 另存为PDF
+      - 打印
+      - 添加搜索引擎
+      - 添加到主屏幕
+   - 工具  
+    ![](./_pic/5_WebBrowser/Internet_tools.png)
 
-         - 登录信息
-         - 新建访客会话
-      - 设置  
-![](./_pic/5_WebBrowser/Internet_setting.png)
+      - 登录信息
+      - 新建访客会话
+   - 设置  
+    ![](./_pic/5_WebBrowser/webbrowser_setting.png)
 
-      - 帮助  
-![](./_pic/5_WebBrowser/Internet_help.png)
+   - 帮助  
+    ![](./_pic/5_WebBrowser/Internet_help.png)
 
-      - uBlock Origin  
-![](./_pic/5_WebBrowser/Internet_ublock.png)
+   - uBlock Origin  
+    ![](./_pic/5_WebBrowser/Internet_ublock.png)
 
-      - UserAgent --（可选择不同的页面浏览模式，相比模式切换按钮，选择项目更多）  
-![](./_pic/5_WebBrowser/Internet_agent.png)
+   - UserAgent --（可选择不同的页面浏览模式，相比模式切换按钮，选择项目更多）  
+    ![](./_pic/5_WebBrowser/Internet_agent.png)
 
-   - 使用技巧
-      - 使用ctrl + =/-缩放页面
-      - 使用ctlr + 0将页面改为原始大小
-      - 页面内容鼠标拖动 --（片选）  
-![](./_pic/5_WebBrowser/Internet_choose.png)
+### 使用技巧
 
-      - 快捷键ctrl + A --（选择全部内容）
-      - 快捷键ctrl + c --（复制）
-      - 快捷键ctrl + v --（粘贴）
-      - 快捷键ctrl + x --（剪切）
-      - 快捷键alt + F4 --（关闭浏览器）
-      - 更多快捷键可在快捷键页面找到（Home页面的最右侧选单）
-      - 双击窗口模式页面顶部 --（可最大化窗口）
-      - 鼠标滚轮上下滑动 --（翻页）
-      - 编辑框搜索历史记录
-      - 常用邮箱登录功能 (网易，QQ，新浪，阿里)
+  - 使用ctrl + =/-缩放页面
+  - 使用ctlr + 0将页面改为原始大小
+  - 页面内容鼠标拖动 --（片选）  
+    ![](./_pic/5_WebBrowser/Internet_choose.png)
+
+  - 快捷键ctrl + A --（选择全部内容）
+  - 快捷键ctrl + c --（复制）
+  - 快捷键ctrl + v --（粘贴）
+  - 快捷键ctrl + x --（剪切）
+  - 快捷键alt + F4 --（关闭浏览器）
+  - 更多快捷键可在快捷键页面找到（Home页面的最右侧选单）
+  - 双击窗口模式页面顶部 --（可最大化窗口）
+  - 鼠标滚轮上下滑动 --（翻页）
+  - 编辑框搜索历史记录
+  - 常用邮箱登录功能 (网易，QQ，新浪，阿里)
+
 
 ### 注意事项
    -  文件上传操作(注意不要在上传文件时，同时操作文件管理器，可能会出现冲突)
