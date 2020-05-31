@@ -10,26 +10,23 @@
       - 装机必备
       - 排行榜
    - 应用 --（展示属于非游戏类的软件）  
-![](./_pic/5_AppStore/5_software.png)
+![](./_pic/5_AppStore/5_appstore_software.png)
 
    - 游戏 --（展示属于游戏类的软件）  
-![](./_pic/5_AppStore/AppS_game.png)
+![](./_pic/5_AppStore/5_appstore_game.png)
 
    - 我的 --（查看软件的下载情况）  
-![](./_pic/5_AppStore/AppS_manage.png)
+![](./_pic/5_AppStore/5_appstore_my_download.png)
 
       - 更新 --（本机已经安装的软件）
          - 点击内容项会弹出应用信息框，可进行卸载，清除缓存等操作
          - 自动更新
       - 下载中 --（添加进下载列表的软件）
          - 点击内容会弹出安装和移除任务选项
-         - 安装 --（进入安装页面，安装app）
          - 移除任务 --（移除当前下载项）
          - 全部开始/全部暂停 --（开始或暂停所有软件）
          - 下载中显示下载的基本信息，右侧的按钮可以控制暂停和继续
       - 已安装
-         - 点击内容会弹出打开和卸载任务选项
-         - 打开 --（运行相应的app）
          - 卸载 --（从系统中卸载相应的app，此操作不会删除安装包）
       - 购买记录
          - 点击内容项会弹出应用信息框，可进行卸载，清除缓存，下载等操作
@@ -40,7 +37,7 @@
 
 ### 5.4.2 应用商店功能
 #### 查询应用
-![](./_pic/5_AppStore/AppS_ruanjian.png)
+![](./_pic/5_AppStore/5_appstore_search.png)
      
    - 每一个页面都可以进行搜索操作
    - 搜索操作在页面的右上角，本应用做的是关键字匹配
@@ -49,13 +46,13 @@
 #### 下载应用
    - 在应用列表中点击应用右下角的绿色图标按钮，即可下载应用。图标按钮含义如下：
       - 下载  
-![](./_pic/5_AppStore/AppS_download.png)
+![](./_pic/5_AppStore/5_appstore_download_icon.png)
 
       - 下载中  
-![](./_pic/5_AppStore/AppS_downloading.png)
+![](./_pic/5_AppStore/5_appstore_installing_icon.png)
 
       - 暂停下载  
-![](./_pic/5_AppStore/AppS_pause.png)
+![](./_pic/5_AppStore/5_appstore_pause_icon.png)
 
       - 更新  
 ![](./_pic/5_AppStore/AppS_update.png)
@@ -64,10 +61,10 @@
 ![](./_pic/5_AppStore/AppS_install.png)
 
       - 运行  
-![](./_pic/5_AppStore/AppS_run.png)
+![](./_pic/5_AppStore/5_appstore_open_icon.png)
 
    - 在应用详情页面找到下载按钮，点击进行应用下载  
-![](./_pic/5_AppStore/AppS_detail.png)
+![](./_pic/5_AppStore/5_appstore_deatil.png)
 
 #### 安装应用
    - 如果这个应用没有下载，需要先进行下载
