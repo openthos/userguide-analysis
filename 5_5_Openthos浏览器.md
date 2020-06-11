@@ -18,51 +18,51 @@ Openthos浏览器效果图
       - 平板模式
       - 手机模式
    - 下载 --（查看下载页面）  
-    ![](./_pic/5_WebBrowser/webbrowser_downloads.png)
+![](./_pic/5_WebBrowser/webbrowser_downloads.png)
    - 书签 --（点击添加书签，再次点击移除书签）  
-    ![](./_pic/5_WebBrowser/webbrowser_bookmark.png)
+![](./_pic/5_WebBrowser/webbrowser_bookmark.png)
 
    - 视图 --（总览全部已打开的页面，可选择您需要的页面）  
-    ![](./_pic/5_WebBrowser/Internet_view.png)
+![](./_pic/5_WebBrowser/Internet_view.png)
 
    - 隐私浏览模式  
-    ![](./_pic/5_WebBrowser/Internet_private.png)
+![](./_pic/5_WebBrowser/Internet_private.png)
 
    - 更多  
-    ![](./_pic/5_WebBrowser/Internet_more.png)
+![](./_pic/5_WebBrowser/Internet_more.png)
 
    - 分享
    - 新建标签页
    - 新建隐私标签页
    - 书签  
-    ![](./_pic/5_WebBrowser/Internet_bookmarks.png)
+![](./_pic/5_WebBrowser/Internet_bookmarks.png)
 
    - 历史记录
    - 在页面中查找
    - 页面  
-    ![](./_pic/5_WebBrowser/Internet_page.png)
-
+![](./_pic/5_WebBrowser/Internet_page.png)
+        
       - 订阅
       - 另存为PDF
       - 打印
       - 添加搜索引擎
       - 添加到主屏幕
    - 工具  
-    ![](./_pic/5_WebBrowser/Internet_tools.png)
-
+![](./_pic/5_WebBrowser/Internet_tools.png)
+        
       - 登录信息
       - 新建访客会话
    - 设置  
-    ![](./_pic/5_WebBrowser/webbrowser_setting.png)
+![](./_pic/5_WebBrowser/webbrowser_setting.png)
 
    - 帮助  
-    ![](./_pic/5_WebBrowser/Internet_help.png)
+![](./_pic/5_WebBrowser/Internet_help.png)
 
    - uBlock Origin  
-    ![](./_pic/5_WebBrowser/Internet_ublock.png)
+![](./_pic/5_WebBrowser/Internet_ublock.png)
 
    - UserAgent --（可选择不同的页面浏览模式，相比模式切换按钮，选择项目更多）  
-    ![](./_pic/5_WebBrowser/Internet_agent.png)
+![](./_pic/5_WebBrowser/Internet_agent.png)
 
 ### 使用技巧
 
